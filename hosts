@@ -1,8 +1,17 @@
 ##################################################
-# Last updated: 2017-02-15
+# Web:http://htcui.com
+# iOS/OS X/Windows/linux/
 ##################################################
-# 【zhengpu1】
-# https://github.com/zhengpu1/hosts/blob/master/hosts
+# Last updated: 2017-02-18
+##################################################
+# 【racaljk】
+# https://github.com/racaljk/hosts
+##################################################
+# 【DannyWu】
+# https://github.com/WUZHIQIANGX/hosts
+##################################################
+# 【vokins】
+# https://github.com/vokins/yhosts
 ###################################################
 # This work is licensed under a CC BY-NC-SA 4.0 International License.
 # https://creativecommons.org/licenses/by-nc-sa/4.0/
@@ -63,6 +72,12 @@
 207.241.226.190	web.archive.org
 # Archive End
 
+# Battle.NET Start
+12.129.206.133	enUS.patch.battle.net
+208.111.148.7	llnw.blizzard.com
+121.254.200.133	zhTW.patch.battle.net
+# Battle.NET End
+
 # Box.com Start
 74.112.184.70	app.box.com
 74.112.184.90	box.com
@@ -100,53 +115,54 @@
 # Disqus End
 
 # Dropbox Start
-108.160.173.233	db.tt
-52.29.64.168	dropbox.com
-52.29.64.168	www.dropbox.com
-108.160.173.233	m.dropbox.com
-108.160.173.162	dl-debug.dropbox.com
-52.85.76.60	linux.dropbox.com
-108.160.172.225 d.dropbox.com
-108.160.172.225 d.v.dropbox.com
-162.125.18.132	dl-doc.dropbox.com
-108.160.172.225 api-d.dropbox.com
-108.160.172.225 api.dropboxapi.com
-108.160.172.225 api.dropbox.com
-108.160.172.225 api.v.dropbox.com
-108.160.172.225 api-notify.dropbox.com
-108.160.172.225 www.dropboxstatic.com
-104.16.100.29	cfl.dropboxstatic.com
-108.160.172.229	dbxlocal.dropboxstatic.com
-199.47.217.36	api-content.dropbox.com
-199.47.217.36	api-content-photos.dropbox.com
-108.160.172.207	photos.dropbox.com
-162.125.34.129	bolt.dropbox.com
-162.125.17.129	photos-thumb.dropbox.com
-162.125.17.129	photos-thumb.x.dropbox.com
-199.47.217.97	block.dropbox.com
-199.47.217.97	block.v.dropbox.com
-54.230.214.100	cf.dropboxstatic.com
-54.192.108.33	client-cf.dropbox.com
-45.58.69.38	dl.dropbox.com
-45.58.70.5	dl-web.dropbox.com
-45.58.69.37	dl.dropboxusercontent.com
-162.125.18.2	photos-1.dropbox.com
-162.125.18.2	photos-2.dropbox.com
-162.125.18.2	photos-3.dropbox.com
-162.125.18.2	photos-4.dropbox.com
-162.125.18.2	photos-5.dropbox.com
-162.125.18.2	photos-6.dropbox.com
-54.192.213.118	status.dropbox.com
-54.192.213.118	marketing.dropbox.com
-54.192.213.118	blogs.dropbox.com
-54.192.213.118	forums.dropbox.com
-54.192.213.118	snapengage.dropbox.com
-162.125.32.129	notify.dropbox.com
-108.160.172.236	client-lb.dropbox.com
-108.160.172.236	client-web.dropbox.com
-108.160.172.236	client.dropbox.com
-108.160.172.236	client.v.dropbox.com
-108.160.172.227	log.getdropbox.com
+202.171.252.103	db.tt
+202.171.252.103	dropbox.com
+202.171.252.103	m.dropbox.com
+202.171.252.103	www.v.dropbox.com
+202.171.252.103	www.dropbox.com
+202.171.252.103	d.dropbox.com
+202.171.252.103	d.v.dropbox.com
+202.171.252.103	api-d.dropbox.com
+202.171.252.103	api.dropboxapi.com
+202.171.252.103	api.dropbox.com
+202.171.252.103	api.v.dropbox.com
+202.171.252.103	api-notify.dropbox.com
+202.171.252.103	www.dropboxstatic.com
+202.171.252.103	cfl.dropboxstatic.com
+202.171.252.103	dbxlocal.dropboxstatic.com
+202.171.252.103	api-content.dropbox.com
+202.171.252.103	api-content-photos.dropbox.com
+202.171.252.103	photos.dropbox.com
+202.171.252.103	bolt.dropbox.com
+202.171.252.103	photos-thumb.dropbox.com
+202.171.252.103	photos-thumb.x.dropbox.com
+202.171.252.103	block.dropbox.com
+202.171.252.103	block.v.dropbox.com
+202.171.252.103	cf.dropboxstatic.com
+202.171.252.103 linux.dropbox.com
+202.171.252.103	client-cf.dropbox.com
+202.171.252.103	dl.dropbox.com
+202.171.252.103	dl-web.dropbox.com
+202.171.252.103	dl.dropboxusercontent.com
+202.171.252.103	photos-1.dropbox.com
+202.171.252.103	photos-2.dropbox.com
+202.171.252.103	photos-2.dropbox.com
+202.171.252.103	photos-3.dropbox.com
+202.171.252.103	photos-4.dropbox.com
+202.171.252.103	photos-5.dropbox.com
+202.171.252.103	photos-6.dropbox.com
+202.171.252.103	status.dropbox.com
+202.171.252.103	marketing.dropbox.com
+202.171.252.103	blogs.dropbox.com
+202.171.252.103	forums.dropbox.com
+202.171.252.103	snapengage.dropbox.com
+202.171.252.103	notify.dropbox.com
+202.171.252.103	client-lb.dropbox.com
+202.171.252.103	client-web.dropbox.com
+202.171.252.103	client.dropbox.com
+202.171.252.103	client.v.dropbox.com
+202.171.252.103	dl-debug.dropbox.com
+202.171.252.103	log.getdropbox.com
 # Dropbox End
 
 # DuckDuckGo Start
@@ -158,7 +174,7 @@
 96.45.83.209	help.duckduckgo.com
 # DuckDuckGo End
 
-# Facebook start
+# Facebook Start
 157.240.0.17 m.me
 157.240.0.17 fb.com
 157.240.0.17 www.m.me
@@ -2843,7 +2859,6 @@
 219.76.4.4	abc.xyz
 64.233.191.121	www.androidexperiments.com
 64.233.191.121	androidexperiments.com
-64.233.188.121	www.tensorflow.org
 64.233.188.14	gmr-smtp-in.l.google.com
 64.233.188.16	googlemail-imap.l.google.com
 64.233.188.16	googlemail-smtp.l.google.com
@@ -7255,7 +7270,9 @@
 198.41.186.33	humblebundle.com
 203.69.81.33	humblebundle-a.akamaihd.net
 52.36.140.12	pubnub.com
+151.101.16.143	www.pubnub.com
 74.125.34.32	www.humblebundle.com
+54.230.73.18	d2sdf28wg0skh3.cloudfront.net
 # HumbleBundle End
 
 # imgur Start
@@ -7268,6 +7285,16 @@
 151.101.100.193	p.imgur.com
 151.101.100.193	i.imgur.com
 # imgur End
+
+# Indiegala Start
+199.83.129.61	www.indiegala.com
+74.125.29.121	www.galagiveaways.com
+# Indiegala End
+
+# inoreader Start
+92.247.181.40	inoreader.com
+92.247.181.40	www.inoreader.com
+# inoreader End
 
 # Instagram Start
 31.13.70.52 instagram.com
@@ -7822,35 +7849,35 @@
 # Smartdnsproxy end
 
 # SoundCloud Start
-72.21.91.127	soundcloud.com
-72.21.91.127	www.soundcloud.com
-72.21.91.127	m.soundcloud.com
-72.21.91.127	api.soundcloud.com
-72.21.91.127	api-mobile.soundcloud.com
-72.21.91.127	api-v2.soundcloud.com
-45.33.14.185	blog.soundcloud.com
-72.21.81.167	ec-media.soundcloud.com
-68.232.32.220	ec-rtmp-media.soundcloud.com
-72.21.91.127	on.soundcloud.com
-72.21.91.127	promoted.soundcloud.com
-72.21.91.127	visuals.soundcloud.com
+68.232.44.127	soundcloud.com
+68.232.44.127	w.soundcloud.com
+68.232.44.127	www.soundcloud.com
+68.232.44.127	m.soundcloud.com
+68.232.44.127	api.soundcloud.com
+68.232.44.127	api-mobile.soundcloud.com
+68.232.44.127	api-v2.soundcloud.com
+68.232.44.127	promoted.soundcloud.com
+68.232.44.127	visuals.soundcloud.com
+68.232.44.127	on.soundcloud.com
+66.228.50.217	blog.soundcloud.com
 72.21.91.96	a1.sndcdn.com
 72.21.91.96	a-v2.sndcdn.com
-54.230.233.111	cf-media.sndcdn.com
-72.21.81.77	ec-media.sndcdn.com
-72.21.91.96	ec-preview-media.sndcdn.com
-72.21.91.96	style.sndcdn.com
-72.21.91.96	va.sndcdn.com
+93.184.220.96	va.sndcdn.com
+93.184.221.77	ec-media.sndcdn.com
+93.184.220.96	ec-preview-media.sndcdn.com
+72.21.81.167	ec-media.soundcloud.com
+93.184.222.220	ec-rtmp-media.soundcloud.com
+54.230.99.234	cf-media.sndcdn.com
+68.232.44.96	style.sndcdn.com
 # SoundCloud End
 
-# Startpage & Ixquick Start
-43.249.39.38	startpage.com
-43.249.39.38	www.startpage.com
-43.249.39.49	www.ixquick.com
-43.249.39.49	ixquick.com
-37.0.89.56	support.startpage.com
-37.0.89.57	support.ixquick.com
-# Startpage & Ixquick End
+# Startpage Start
+37.0.88.36	startpage.com
+37.0.88.36	eu.startpage.com
+37.0.88.36	www.startpage.com
+37.0.88.36	support.startpage.com
+37.0.88.36	blog.startpage.com
+# Startpage End
 
 # telegram start
 149.154.167.99	 telegram.org
@@ -7921,51 +7948,72 @@
 # Travis CI End
 
 # Tumblr Start
-69.147.83.16	tumblr.com
-69.147.83.16	blr.comtum
-69.147.83.16	api.tumblr.com
-69.147.83.16	www.tumblr.com
-192.229.237.97 	cynicallys.tumblr.com
-192.229.237.97	mx.tumblr.com
-66.6.32.162     t.umblr.com
-54.182.6.6	    vt.tumblr.com
-54.239.176.79	vt.media.tumblr.com
-119.161.11.151	vtt.tumblr.com
-119.160.254.197	assets.tumblr.com
-119.160.254.215	secure.assets.tumblr.com
-54.182.6.6  	secure.static.tumblr.com
-52.85.245.124	media.tumblr.com
-54.239.176.79	24.media.tumblr.com
-192.229.237.98	30.media.tumblr.com
-119.161.11.151	31.media.tumblr.com
-54.239.176.79	32.media.tumblr.com
-119.161.11.151	33.media.tumblr.com
-119.161.10.101	36.media.tumblr.com
-119.161.11.151	37.media.tumblr.com
-119.161.11.151	38.media.tumblr.com
-209.197.3.20	39.media.tumblr.com
-192.229.237.98	40.media.tumblr.com
-209.197.3.20	41.media.tumblr.com
-192.229.237.185	42.media.tumblr.com
-209.197.3.20	43.media.tumblr.com
-192.229.237.98	44.media.tumblr.com
-209.197.3.20	45.media.tumblr.com
-192.229.237.98	46.media.tumblr.com
-119.161.10.101	47.media.tumblr.com
-209.197.3.20	48.media.tumblr.com
-192.229.237.98	49.media.tumblr.com
-54.192.234.244	50.media.tumblr.com
-54.239.176.79	65.media.tumblr.com
-192.229.237.98	66.media.tumblr.com
-209.197.3.20	67.media.tumblr.com
-119.161.11.151	68.media.tumblr.com
-216.115.96.179	90.media.tumblr.com
-128.127.159.1	94.media.tumblr.com
-149.135.80.18   95.media.tumblr.com
-54.239.176.79	96.media.tumblr.com
-192.229.237.98	97.media.tumblr.com
-151.101.52.249	98.media.tumblr.com
-209.197.3.20	99.media.tumblr.com
+202.171.252.103	tumblr.com
+202.171.252.103	blr.comtum
+202.171.252.103	api.tumblr.com
+202.171.252.103	yahoomail.tumblr.com
+202.171.252.103	analytics.twitter.com
+202.171.252.103	assets.tumblr.com
+202.171.252.103	www.tumblr.com
+202.171.252.103	cynicallys.tumblr.com
+202.171.252.103	mx.tumblr.com
+202.171.252.103	px.srvcs.tumblr.com
+202.171.252.103	a.tumblr.com
+202.171.252.103	t.appsflyer.com
+202.171.252.103	link.email.dynect.net
+202.171.252.103	media.tumblr.com
+202.171.252.103	30.media.tumblr.com
+202.171.252.103	31.media.tumblr.com
+202.171.252.103	32.media.tumblr.com
+202.171.252.103	33.media.tumblr.com
+202.171.252.103	34.media.tumblr.com
+202.171.252.103	35.media.tumblr.com
+202.171.252.103	36.media.tumblr.com
+202.171.252.103	37.media.tumblr.com
+202.171.252.103	38.media.tumblr.com
+202.171.252.103	39.media.tumblr.com
+202.171.252.103	40.media.tumblr.com
+202.171.252.103	41.media.tumblr.com
+202.171.252.103	42.media.tumblr.com
+202.171.252.103	43.media.tumblr.com
+202.171.252.103	44.media.tumblr.com
+202.171.252.103	45.media.tumblr.com
+202.171.252.103	46.media.tumblr.com
+202.171.252.103	47.media.tumblr.com
+202.171.252.103	48.media.tumblr.com
+202.171.252.103	49.media.tumblr.com
+202.171.252.103	50.media.tumblr.com
+202.171.252.103	90.media.tumblr.com
+202.171.252.103	65.media.tumblr.com
+202.171.252.103	66.media.tumblr.com
+202.171.252.103	67.media.tumblr.com
+202.171.252.103	68.media.tumblr.com
+202.171.252.103	91.media.tumblr.com
+202.171.252.103	92.media.tumblr.com
+202.171.252.103	93.media.tumblr.com
+202.171.252.103	94.media.tumblr.com
+202.171.252.103	95.media.tumblr.com
+202.171.252.103	96.media.tumblr.com
+202.171.252.103	97.media.tumblr.com
+202.171.252.103	98.media.tumblr.com
+202.171.252.103	99.media.tumblr.com
+202.171.252.103	static.tumblr.com
+202.171.252.103	secure.assets.tumblr.com
+202.171.252.103	secure.static.tumblr.com
+202.171.252.103	secure.assets.tumblr.com
+202.171.252.103	ls.srvcs.tumblr.com
+202.171.252.103	media.tumblr.com
+202.171.252.103	media.tumblr.com
+202.171.252.103	assets.tumblr.com
+202.171.252.103	assets.tumblr.com
+202.171.252.103	vt.tumblr.com
+202.171.252.103	vtt.tumblr.com
+202.171.252.103	vt.tumblr.com
+#54.230.151.138	vt.tumblr.com
+#52.84.189.141	vt.tumblr.com
+202.171.252.103	secure.static.tumblr.com
+202.171.252.103	secure.static.tumblr.com
+202.171.252.103	secure.static.tumblr.com
 # Tumblr End
 
 # Twitter Start
@@ -8046,11 +8094,16 @@
 104.156.85.217	vimeo.com
 104.156.85.217	www.vimeo.com
 104.156.85.217	player.vimeo.com
-151.101.73.133	i.vimeocdn.com
-151.101.73.133	f.vimeocdn.com
+103.245.224.143	i.vimeocdn.com
+103.245.224.143	f.vimeocdn.com
 103.245.222.249	vimeo-hp-videos.global.ssl.fastly.net
 198.245.92.39	click.email.vimeo.com
-151.101.76.249	travis-ci-org.global.ssl.fastly.net
+202.171.252.103	 	api.vimeo.com	
+202.171.252.103	 	skyfire.vimeocdn.com
+202.171.252.103	 	player.vimeo.com
+202.171.252.103	 	i.vimeocdn.com
+202.171.252.103	 	06-lvl3-hls.vimeocdn.com
+202.171.252.103	 	11-lvl3-hls.vimeocdn.com
 # Vimeo End
 
 # W3schools Start
@@ -8141,87 +8194,189 @@
 106.10.150.156 android.smtp.mail.yahoo.com
 # Yahoo End
 
-# Other Start
-104.24.118.4 btdb.in
-169.46.12.69 batch.upsight-api.com
-169.46.12.88 batch.upsight-api.com
-119.81.248.34 single.upsight-api.com
-169.46.12.88 single.upsight-api.com
-169.46.12.69 batch.upsight-api.com
-169.46.12.88 batch.upsight-api.com
-50.31.162.95 www.digwebinterface.com
-103.20.93.138 slideshare.net
-103.20.93.138 www.slideshare.net
-61.213.168.33 www.elperiodico.cat
-178.162.219.58 app.adjust.com
-165.193.93.113 udm.ia5.scorecardresearch.com
-184.25.56.74 b.scorecardresearch.com
-151.101.40.233 serpens.iad.appboy.com
-104.28.31.251 theinitium.com
-104.28.30.251 theinitium.com
-110.4.24.178 m-dot-betaspike.appspot.com
-110.4.24.178 api.crittercism.com
-110.4.24.178 appload.ingest.crittercism.com
-110.4.24.178 txn.ingest.crittercism.com
-139.162.207.229 www.alfredapp.com
-# Other End
+# WordPress Start
+192.0.78.17		wordpress.com
+192.0.80.240	www.gravatar.com
+192.0.79.32	en.wordpress.com
+192.0.73.2	0.gravatar.com
+192.0.73.2	1.gravatar.com
+192.0.73.2	2.gravatar.com
+192.0.73.2	s.gravatar.com
+192.0.80.240	lb.gravatar.com
+192.0.80.242	secure.gravatar.com
+192.0.81.250	botd2.wordpress.com
+192.0.78.13	dashboard.wordpress.com
+192.0.78.12	en.blog.wordpress.com
+192.0.78.12	en.forums.wordpress.com
+192.0.78.12	forums.wordpress.com
+192.0.77.2	i0.wp.com
+192.0.77.2	i1.wp.com
+192.0.77.2	i2.wp.com
+192.0.78.12	lb.wordpress.com
+192.0.78.12	lucifr.wordpress.com
+192.0.78.18	r-login.wordpress.com
+#68.232.44.119	s.stats.wordpress.com
+192.229.144.127	s.w.org
+192.0.73.2	s.wordpress.com
+66.155.40.250	s.wordpress.org
+192.0.77.32	s0.wp.com
+192.0.77.33	s1.wordpress.com
+192.0.77.32	s1.wp.com
+192.0.77.33	s2.wordpress.com
+192.0.77.32	s2.wp.com
+192.0.77.33	s3.wordpress.com
+192.0.78.12	stats.wordpress.com
+192.0.78.12	wpcom.wordpress.com
+192.0.78.12	zh.wordpress.com
+192.0.78.12	zh-cn.wordpress.com
+192.0.78.12	zh-sg.wordpress.com
+# WordPress End
 
-# appannie Start
-69.167.138.64 www.appannie.com
-69.167.138.64 appannie.com
-# appannie End
+# XDA Start
+68.232.44.229	cdn.www.xda-developers.com
+68.232.44.229	cdn.media.xda-developers.com
+174.129.2.23	cdn.xda-developers.com
+192.229.144.96	cdn1.xda-developers.com
+192.229.144.96	cdn2.xda-developers.com
+192.229.144.96	cdn3.xda-developers.com
+93.184.216.96	cdn4.xda-developers.com
+192.229.144.96	cdn-img.xda-developers.com
+192.229.144.96	cdn-www.xda-developers.com
+192.229.144.96	cs261.wac.edgecastcdn.net
+207.244.72.9	forum.xda-developers.com
+23.32.241.66	m.servebom.com
+117.18.237.203	tags.bkrtx.com
+68.232.44.229	wac.8244.edgecastcdn.net
+207.244.73.44	www.xda-developers.com
+207.244.73.44	xda-developers.com
+43.249.37.246	forum-lw-1.xda-cdn.com
+182.161.72.74	static.criteo.net
+151.101.52.134	xdaportal.disqus.com
+# XDA End
 
-# vectorstock Start
-192.229.144.147       www.vectorstock.com
-192.229.144.147       vectorstock.com
-192.229.144.147       cdn.vectorstock.com
-192.229.144.147       download.vectorstock.com
-# vectorstock End
+#TensorFlow start
+202.171.252.103	www.tensorflow.org
+#TensorFlow end
 
-# dxomark Start
-5.196.172.196 www.dxomark.com
-43.245.63.22 cdn.dxomark.com
-# dxomark End
+#myspace Start
+117.18.237.78		x.myspacecdn.com
+117.18.237.78		a1-images.myspacecdn.com
+117.18.237.78		a2-images.myspacecdn.com
+117.18.237.78		a3-images.myspacecdn.com
+117.18.237.78		a4-images.myspacecdn.com
+0.0.0.0		staticxx.facebook.com
+23.42.164.55		sb.scorecardresearch.com
+117.18.237.74		cache.specificmedia.com
+117.18.237.12		sdk.vindicosuite.com
+117.18.237.29		cacerts.digicert.com
+119.9.68.64			search.spotxchange.com
+96.7.54.75			fbstatic-a.akamaihd.net
+#myspace End
 
-# pcbeta Start
-218.93.127.136 cdn.pcbeta.attachment.inimc.com
-218.93.127.136 cdn.pcbeta.css.inimc.com
-218.93.127.136 cdn.pcbeta.img.inimc.com
-218.93.127.136 cdn.pcbeta.js.inimc.com
-218.93.127.136 cdn.pcbeta.static.inimc.com
-218.93.127.136 bbs.pcbeta.com
-218.93.127.136 i.pcbeta.com
-218.93.127.136 m.pcbeta.com
-218.93.127.136 pcbeta.com
-218.93.127.136 static.template.pcbeta.com
-218.93.127.136 uc.pcbeta.com
-218.93.127.136 web.pcbeta.com
-218.93.127.136 www.pcbeta.com
-# pcbeta End
+#dailymotion Start
+#195.8.215.136		dailymotion.com
+202.171.252.103  faq.dailymotion.com
+202.171.252.103  dailymotion.com
+202.171.252.103  www.dailymotion.com
+202.171.252.103	 api.dailymotion.com
+202.171.252.103  push-api.dailymotion.com
+202.171.252.103  mc.dailymotion.com
+202.171.252.103  xbased.api.dailymotion.com
+202.171.252.103  s1.dmcdn.net
+202.171.252.103  static1.dmcdn.net
+202.171.252.103  silkenthreadiness.info
+202.171.252.103  dailymotion-mobile-compute.appspot.com
+202.171.252.103  s2.dmcdn.net
+202.171.252.103  s1.dmcdn.net
+202.171.252.103  e.crashlytics.com
+202.171.252.103  cache.btrll.com
+202.171.252.103  static.yieldmo.com
+202.171.252.103  ads.yieldmo.com
+202.171.252.103  static1-ssl.dmcdn.net
+202.171.252.103  static2-ssl.dmcdn.net
+202.171.252.103  s1-ssl.dmcdn.net
+202.171.252.103  s2-ssl.dmcdn.net
+202.171.252.103  proxy-01.sg1.dailymotion.com
+202.171.252.103  proxy-01.sg1.dailymotion.com
+202.171.252.103  proxy-01.sg1.dailymotion.com
+202.171.252.103  proxy-01.sg1.dailymotion.com
+202.171.252.103  proxy-01.sg1.dailymotion.com
+202.171.252.103  proxy-01.sg1.dailymotion.com
+202.171.252.103  proxy-01.sg1.dailymotion.com
+202.171.252.103  proxy-01.sg1.dailymotion.com
+202.171.252.103  proxy-01.sg1.dailymotion.com
+202.171.252.103  proxy-01.sg1.dailymotion.com
+202.171.252.103  proxy-01.sg1.dailymotion.com
+202.171.252.103  proxy-01.sg1.dailymotion.com
+202.171.252.103  proxy-07.sg1.dailymotion.com
+202.171.252.103  proxy-17.sg1.dailymotion.com
+202.171.252.103  proxy-01.dc3.dailymotion.com
+#dailymotion End
 
-# uvwxyz Start
-45.35.43.168 uvwxyz.xyz
-45.35.43.168 www.uvwxyz.xyz
-45.35.43.168 bbs.uvwxyz.xyz
-45.35.43.170 ipv6.uvwxyz.xyz
-# uvwxyz End
+# Ixquick Start
+202.171.252.103	www.ixquick.com
+202.171.252.103	ixquick.com
+202.171.252.103	support.ixquick.com
+202.171.252.103	s19.ixquick.com
+202.171.252.103	s1-eu5.ixquick.com
+202.171.252.103	s2-eu5.ixquick.com
+202.171.252.103	s3-eu5.ixquick.com
+202.171.252.103	s4-eu5.ixquick.com
+202.171.252.103	s5-eu5.ixquick.com
+202.171.252.103	s6-eu5.ixquick.com
+202.171.252.103	s7-eu5.ixquick.com
+202.171.252.103	s8-eu5.ixquick.com
+202.171.252.103	s9-eu5.ixquick.com
+202.171.252.103	s10-eu5.ixquick.com
+202.171.252.103	s11-eu5.ixquick.com
+202.171.252.103	s12-eu5.ixquick.com
+202.171.252.103	s13-eu2.ixquick.com
+202.171.252.103	s14-eu2.ixquick.com
+202.171.252.103	s15-eu2.ixquick.com
+202.171.252.103	s16-eu2.ixquick.com
+202.171.252.103	s17-eu2.ixquick.com
+202.171.252.103	s18-eu2.ixquick.com
+202.171.252.103	s19-eu2.ixquick.com
+202.171.252.103	s20-eu2.ixquick.com
+202.171.252.103	s1-us5.ixquick.com
+202.171.252.103	s2-us5.ixquick.com
+202.171.252.103	s3-us5.ixquick.com
+202.171.252.103	s4-us5.ixquick.com
+202.171.252.103	s5-us5.ixquick.com
+202.171.252.103	s6-us5.ixquick.com
+202.171.252.103	s7-us5.ixquick.com
+202.171.252.103	s8-us5.ixquick.com
+202.171.252.103	s9-us5.ixquick.com
+202.171.252.103	s10-us5.ixquick.com
+202.171.252.103	s11-us5.ixquick.com
+202.171.252.103	s12-us5.ixquick.com
+202.171.252.103	s13-us2.ixquick.com
+202.171.252.103	s14-us2.ixquick.com
+202.171.252.103	s15-us2.ixquick.com
+202.171.252.103	s16-us2.ixquick.com
+202.171.252.103	s17-us2.ixquick.com
+202.171.252.103	s18-us2.ixquick.com
+202.171.252.103	s19-us2.ixquick.com
+202.171.252.103	s20-us2.ixquick.com
+# Ixquick End
 
-# xda-developers
-43.249.37.246 cdn1.xda-developers.com
-43.249.37.246 cdn2.xda-developers.com
-43.249.37.246 cdn3.xda-developers.com
-43.249.37.246 cdn4.xda-developers.com
-43.249.37.245 cdn-img.xda-developers.com
-93.46.8.89 cs261.wac.edgecastcdn.net
-207.244.72.9 forum.xda-developers.com
-68.232.44.229 wac.8244.edgecastcdn.net
-209.58.128.90 www.xda-developers.com
-209.58.128.90 xda-developers.com
-# xda-developers
+#bitcointalk Start
+52.45.214.107		bitcointalk.org
+45.55.191.107		ip.bitcointalk.org
+93.184.215.82		cdn-static.tunein.com
+68.232.45.184		static.truex.com
+#bitcointalk End
+
+#dyaihao Start
+120.237.243.6	zxfuli.yy991.com
+121.10.172.186	www.dyaihao.com
+#dyaihao End
+
 # Modified hosts end
+
 #AD hosts Start
 
-#version=201702151557
+#version=20170217 625
 #url=https://github.com/vokins/yhosts
 127.0.0.1 localhost
 ::1             ip6-localhost
@@ -8778,35 +8933,46 @@
 127.0.0.1 ups.ksmobile.net
 127.0.0.1 beha.ksmobile.com
 127.0.0.1 counter.kingsoft.com
+127.0.0.1 up.wps.kingsoft.com
 127.0.0.1 ads.dh.duba.com
 127.0.0.1 j.wan.liebao.cn
 127.0.0.1 cr.m.liebao.cn
 127.0.0.1 1.wps.cn
 127.0.0.1 ad.docer.wps.cn
-127.0.0.1 android-lrcresource.wps.cn
-127.0.0.1 img1.pcfg.cache.wps.cn
+127.0.0.1 docerad.wps.cn
+127.0.0.1 gou.wps.cn
+127.0.0.1 img1.mini.cache.wps.cn
+127.0.0.1 img2.mini.cache.wps.cn
 127.0.0.1 info.wps.cn
 127.0.0.1 minfo.wps.cn
 127.0.0.1 moupdate10332052.wps.cn
+127.0.0.1 notify.wps.cn
 127.0.0.1 pcfg.wps.cn
 127.0.0.1 push.wps.cn
+127.0.0.1 wpsweb-dc.wps.cn
 127.0.0.1 cloudservice13.kingsoft-office-service.com
 127.0.0.1 cloudservice15.kingsoft-office-service.com
 127.0.0.1 cloudservice19.kingsoft-office-service.com
 127.0.0.1 cloudservice22.kingsoft-office-service.com
 127.0.0.1 cloudservice28.kingsoft-office-service.com
-127.0.0.1 rating6.kingsoft-office-service.com
 127.0.0.1 d.ma.social-touch.com
 127.0.0.1 i.ma.social-touch.com
 127.0.0.1 img.ma.social-touch.com
 127.0.0.1 k.ma.social-touch.com
 127.0.0.1 n.ma.social-touch.com
+127.0.0.1 rating6.kingsoft-office-service.com
 127.0.0.1 s.ma.social-touch.com
+127.0.0.1 bole.shangshufang.ksosoft.com
 127.0.0.1 event.ksosoft.com
 127.0.0.1 hoplink.ksosoft.com
+127.0.0.1 ic.ksosoft.com
+127.0.0.1 pc.uf.ksosoft.com
+127.0.0.1 pixiu.shangshufang.ksosoft.com
 127.0.0.1 uid.ksosoft.com
-127.0.0.1 news.docer.com
+127.0.0.1 dl.op.wpscdn.cn
+127.0.0.1 img.gou.wpscdn.cn
 127.0.0.1 news.op.wpscdn.cn
+127.0.0.1 news.docer.com
 127.0.0.1 img.particlenews.com
 127.0.0.1 openapi.particlenews.com
 127.0.0.1 o.go2yd.com
@@ -8814,9 +8980,13 @@
 127.0.0.1 i1.go2yd.com
 127.0.0.1 api.zhuashouji.com
 127.0.0.1 m.zhuashouji.com
+127.0.0.1 dfnews.rdtuijian.com
+127.0.0.1 ic.rdtuijian.com
 127.0.0.1 a.mini.eastday.com
 127.0.0.1 cnc.ef-cdn.com
-127.0.0.1 dfnews.rdtuijian.com
+127.0.0.1 img.xingzuo360.cn
+127.0.0.1 tg.602.com
+127.0.0.1 tg.654321wan.com
 127.0.0.1 tg.7477.com
 127.0.0.1 www.gongzhushe.com
 127.0.0.1 www.jbaobao.com
@@ -9653,7 +9823,6 @@
 127.0.0.1 m1s116.yyhlp.com
 127.0.0.1 news.baidu.com.mjjdfl.com
 127.0.0.1 s.iroby.com
-127.0.0.1 j.sc1369.com
 127.0.0.1 vip.id528.com
 127.0.0.1 huoying666.com
 127.0.0.1 s2.huoying666.com
@@ -10004,7 +10173,6 @@
 127.0.0.1 ssp.4hw.com.cn
 127.0.0.1 jb.mbaidu.top
 127.0.0.1 js.mbaidu.top
-127.0.0.1 ios.ann5.net
 127.0.0.1 d1.mobaders.com
 127.0.0.1 db.xhbqczl.com
 127.0.0.1 funexist.com
@@ -10014,6 +10182,8 @@
 127.0.0.1 outer.anquan.org
 127.0.0.1 static.anquan.org
 127.0.0.1 gg.blueidea.com
+127.0.0.1 sq1.chinacsky.com
+127.0.0.1 sq2.chinacsky.com
 127.0.0.1 adq.chinaso.com
 127.0.0.1 stat.chinaso.com
 127.0.0.1 stats.chinaz.com
@@ -10520,6 +10690,12 @@
 127.0.0.1 recv-wd.gridsumdissector.com
 127.0.0.1 sso-cas.gridsumdissector.com
 127.0.0.1 static.gridsumdissector.com
+127.0.0.1 a1.kuku99.com
+127.0.0.1 a2.kuku99.com
+127.0.0.1 yn.001fzc.com
+127.0.0.1 ve.tsdlp.com
+127.0.0.1 w.xiaopiaoyou.com
+127.0.0.1 ww.xiaopiaoyou.com
 127.0.0.1 api.oneyuan.nagezan.net
 127.0.0.1 yiyuan.nagezan.net
 127.0.0.1 dressimage.img-cn-beijing.aliyuncs.com
@@ -11113,7 +11289,6 @@
 127.0.0.1 static-two.ffwap.com
 127.0.0.1 js.lyrymy.com
 127.0.0.1 j.mainbx.com
-127.0.0.1 vip.id528.com
 127.0.0.1 g.ousns.net
 127.0.0.1 js.qixing777.com
 127.0.0.1 vip.hys4.com
@@ -11413,6 +11588,8 @@
 127.0.0.1 stat.sd.360.cn
 127.0.0.1 stat.tf.360.cn
 127.0.0.1 tf.360.cn
+127.0.0.1 display.360totalsecurity.com
+127.0.0.1 static.ts.360.com
 127.0.0.1 mbrowser.news.haosou.com
 127.0.0.1 mbrowser.news.so.com
 127.0.0.1 mbs.hao.360.cn
@@ -12347,7 +12524,6 @@
 127.0.0.1 msga.cupid.iqiyi.com
 127.0.0.1 nl.notice.iqiyi.com
 127.0.0.1 notice.iqiyi.com
-127.0.0.1 ota.iqiyi.com
 127.0.0.1 policy.video.iqiyi.com
 127.0.0.1 static.g.iqiyi.com
 127.0.0.1 store.iqiyi.com
@@ -12576,4 +12752,5 @@
 127.0.0.1 20170231.biz5.kankan.com
 127.0.0.1 20170231.logic.cpm.cm.kankan.com
 127.0.0.1 20170231.float.kankan.com
+
 #AD hosts End
