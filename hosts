@@ -1,14 +1,12 @@
 ##################################################
+## 【htcui Hosts】
 # Web:http://htcui.com
 # iOS/OS X/Windows/linux/
 ##################################################
-# Last updated: 2017-02-19
+# Last updated: 2017-02-22
 ##################################################
 # 【racaljk】
 # https://github.com/racaljk/hosts
-##################################################
-# 【DannyWu】
-# https://github.com/WUZHIQIANGX/hosts
 ##################################################
 # 【vokins】
 # https://github.com/vokins/yhosts
@@ -679,6 +677,8 @@
 203.210.7.41	directory.google.com
 203.210.7.41	dir.google.com
 203.210.7.41	events.google.com
+203.210.7.41	savethedate.foo
+203.210.7.41	www.savethedate.foo
 203.210.7.41	googledrive.com
 203.210.7.41	docs.google.com
 203.210.7.41	drive.google.com
@@ -2756,7 +2756,7 @@
 203.210.7.41	gcm-preprod.googleapis.com
 64.233.171.192	supl.google.com
 203.210.7.41	dl.google.com
-203.210.7.41	pagead2.googlesyndication.com
+#203.210.7.41	pagead2.googlesyndication.com
 203.210.7.41	ssl.google-analytics.com
 203.210.7.41	alt0-mtalk.google.com
 203.210.7.41	alt1-mtalk.google.com
@@ -3187,6 +3187,76 @@
 52.72.26.162	help.issuu.com
 # issuu End
 
+# Kobo Start
+128.127.159.1	magazines-adf.kobo.com
+157.55.176.209	social.kobobooks.com
+191.236.35.232	storedownloads.kobo.com
+191.238.229.33	discovery.kobobooks.com
+204.87.189.12	images.kobobooks.com
+204.87.189.201	ftp.kobobooks.com
+204.87.189.51	kobobooks.com
+204.87.189.51	prod-www.kobobooks.com
+204.87.189.71	ecimagest.kobobooks.com
+204.87.189.87	prod-store.kobobooks.com
+204.87.189.92	kobo.com
+13.92.121.97	kobomaintenance.kobobooks.com
+23.227.38.32	au.kobobooks.com
+23.227.38.32	ca-fr.kobobooks.com
+23.227.38.32	ca.kobobooks.com
+23.227.38.32	corporate.kobobooks.com
+23.227.38.32	de.kobobooks.com
+23.227.38.32	es.kobobooks.com
+23.227.38.32	fr.kobobooks.com
+23.227.38.32	gl.kobobooks.com
+23.227.38.32	it.kobobooks.com
+23.227.38.32	nz.kobobooks.com
+23.227.38.32	pt.kobobooks.com
+23.227.38.32	uk.kobobooks.com
+23.227.38.32	us.kobobooks.com
+23.38.96.57	akimages.kobobooks.com
+23.38.96.57	api.kobobooks.com
+23.38.96.57	esmx.kobobooks.com
+23.38.96.57	esmxsecure.kobobooks.com
+23.38.96.57	merch.kobobooks.com
+23.38.96.57	mobile.kobobooks.com
+23.38.96.57	mobilepartner.kobobooks.com
+23.38.96.57	mobilestage.kobobooks.com
+23.38.96.57	partner.kobobooks.com
+23.38.96.57	ptbr.kobobooks.com
+23.38.96.57	ptbrsecure.kobobooks.com
+23.38.96.57	ratingsapi.kobobooks.com
+23.38.96.57	read.kobobooks.com
+23.38.96.57	secure.kobobooks.com
+23.38.96.57	services.kobobooks.com
+23.38.96.57	store.kobobooks.
+23.38.96.57	tr.kobobooks.com
+23.38.96.57	webstore.kobobooks.com
+23.38.96.57	webstore2.kobobooks.com
+23.38.96.57	writinglife.kobobooks.com
+23.38.96.57	www.kobobooks.com
+23.38.99.249	assets.kobo.com
+23.38.99.249	de.kobo.com
+23.38.99.249	es.kobo.com
+23.38.99.249	fr.kobo.com
+23.38.99.249	it.kobo.com
+23.38.99.249	ja.kobo.com
+23.38.99.249	nl.kobo.com
+23.38.99.249	pt.kobo.com
+23.38.99.249	ptbr.kobo.com
+23.38.99.249	read.kobo.com
+23.38.99.249	rum.kobo.com
+23.38.99.249	stage.kobo.com
+23.38.99.249	storeapi.kobo.com
+23.38.99.249	tw.kobo.com
+23.38.99.249	www.kobo.com
+40.114.86.114	sorry.kobo.com
+75.98.196.99	media.kobobooks.com
+88.221.15.40	contentdownloads.kobobooks.com
+88.221.15.40	get.kobobooks.com
+88.221.15.50	ecimages.kobobooks.com
+88.221.15.50	ecmimages.kobobooks.com
+89.187.65.68	insiders.kobo.com
+# Kobo End
 # Line Start
 203.104.138.138		line.me
 23.66.239.246		w.line.me
@@ -3481,21 +3551,13 @@
 203.210.7.41	98.media.tumblr.com
 203.210.7.41	99.media.tumblr.com
 203.210.7.41	static.tumblr.com
-203.210.7.41	secure.assets.tumblr.com
 203.210.7.41	secure.static.tumblr.com
 203.210.7.41	secure.assets.tumblr.com
 203.210.7.41	ls.srvcs.tumblr.com
 203.210.7.41	media.tumblr.com
-203.210.7.41	media.tumblr.com
 203.210.7.41	assets.tumblr.com
-203.210.7.41	assets.tumblr.com
-203.210.7.41	vt.tumblr.com
 203.210.7.41	vtt.tumblr.com
 203.210.7.41	vt.tumblr.com
-#54.230.151.138	vt.tumblr.com
-#52.84.189.141	vt.tumblr.com
-203.210.7.41	secure.static.tumblr.com
-203.210.7.41	secure.static.tumblr.com
 203.210.7.41	secure.static.tumblr.com
 # Tumblr End
 
@@ -3637,9 +3699,9 @@
 119.161.9.151	c5.ah.yahoo.com
 #video.yahoo.com
 #sg.yahoo.com
-119.160.254.215	d.yimg.com
+119.161.14.18	d.yimg.com
 106.10.136.195	de.yahoo.com
-119.160.254.215	e.yimg.com
+119.161.14.18	e.yimg.com
 98.139.21.169	edit.yahoo.com
 #203.84.197.25	help.yahoo.com
 
@@ -3664,12 +3726,12 @@
 106.10.137.175	geo.query.yahoo.com
 124.108.101.57	geo.yahoo.com
 203.84.197.25	accounts-flickr.yahoo.com
-119.160.254.215	h.yimg.com
+119.161.14.18	h.yimg.com
 106.10.199.10	hk.news.yahoo.com
 106.10.138.240	hk.yahoo.com
 206.190.39.139	hsrd.yahoo.com
 106.10.193.20	hk-mg61.mail.yahoo.com
-119.160.254.215	l.yimg.com
+119.161.14.18	l.yimg.com
 68.142.250.161	l.yimg.com
 202.43.194.205	login.yahoo.com
 106.10.199.91	c1.staticflickr.com
@@ -3680,9 +3742,9 @@
 106.10.193.20	open.login.yahoo.com
 66.163.168.247	open.login.yahoo.com
 216.39.54.12	overview.mail.yahoo.com
-119.160.254.215	p.yimg.com
+119.161.14.18	p.yimg.com
 119.161.14.17	s.yimg.com
-119.160.254.215	s1.yimg.com
+119.161.14.18	s1.yimg.com
 106.10.193.20	sa.edit.yahoo.com
 208.71.44.31	secure.flickr.com
 106.10.193.30	sp.analytics.yahoo.com
@@ -3726,7 +3788,7 @@
 192.0.78.12	lucifr.wordpress.com
 192.0.78.18	r-login.wordpress.com
 #68.232.44.119	s.stats.wordpress.com
-192.229.144.127	s.w.org
+192.0.77.48	s.w.org
 192.0.73.2	s.wordpress.com
 66.155.40.250	s.wordpress.org
 192.0.77.32	s0.wp.com
@@ -3741,28 +3803,6 @@
 192.0.78.12	zh-cn.wordpress.com
 192.0.78.12	zh-sg.wordpress.com
 # WordPress End
-
-# XDA Start
-68.232.44.229	cdn.www.xda-developers.com
-68.232.44.229	cdn.media.xda-developers.com
-174.129.2.23	cdn.xda-developers.com
-192.229.144.96	cdn1.xda-developers.com
-192.229.144.96	cdn2.xda-developers.com
-192.229.144.96	cdn3.xda-developers.com
-93.184.216.96	cdn4.xda-developers.com
-192.229.144.96	cdn-img.xda-developers.com
-192.229.144.96	cdn-www.xda-developers.com
-192.229.144.96	cs261.wac.edgecastcdn.net
-207.244.72.9	forum.xda-developers.com
-23.32.241.66	m.servebom.com
-117.18.237.203	tags.bkrtx.com
-68.232.44.229	wac.8244.edgecastcdn.net
-207.244.73.44	www.xda-developers.com
-207.244.73.44	xda-developers.com
-43.249.37.246	forum-lw-1.xda-cdn.com
-182.161.72.74	static.criteo.net
-151.101.52.134	xdaportal.disqus.com
-# XDA End
 
 #TensorFlow start
 203.210.7.41	www.tensorflow.org
@@ -3785,10 +3825,11 @@
 
 #dailymotion Start
 #195.8.215.136		dailymotion.com
+203.210.7.41  api.dmcdn.net
 203.210.7.41  faq.dailymotion.com
 203.210.7.41  dailymotion.com
 203.210.7.41  www.dailymotion.com
-203.210.7.41	 api.dailymotion.com
+203.210.7.41  api.dailymotion.com
 203.210.7.41  push-api.dailymotion.com
 203.210.7.41  mc.dailymotion.com
 203.210.7.41  xbased.api.dailymotion.com
@@ -3806,21 +3847,217 @@
 203.210.7.41  static2-ssl.dmcdn.net
 203.210.7.41  s1-ssl.dmcdn.net
 203.210.7.41  s2-ssl.dmcdn.net
-203.210.7.41  proxy-01.sg1.dailymotion.com
-203.210.7.41  proxy-01.sg1.dailymotion.com
-203.210.7.41  proxy-01.sg1.dailymotion.com
-203.210.7.41  proxy-01.sg1.dailymotion.com
-203.210.7.41  proxy-01.sg1.dailymotion.com
-203.210.7.41  proxy-01.sg1.dailymotion.com
-203.210.7.41  proxy-01.sg1.dailymotion.com
-203.210.7.41  proxy-01.sg1.dailymotion.com
-203.210.7.41  proxy-01.sg1.dailymotion.com
-203.210.7.41  proxy-01.sg1.dailymotion.com
-203.210.7.41  proxy-01.sg1.dailymotion.com
-203.210.7.41  proxy-01.sg1.dailymotion.com
-203.210.7.41  proxy-07.sg1.dailymotion.com
+203.210.7.41  proxy-001.dc3.dailymotion.com
+203.210.7.41  proxy-002.dc3.dailymotion.com
+203.210.7.41  proxy-003.dc3.dailymotion.com
+203.210.7.41  proxy-004.dc3.dailymotion.com
+203.210.7.41  proxy-005.dc3.dailymotion.com
+203.210.7.41  proxy-006.dc3.dailymotion.com
+203.210.7.41  proxy-007.dc3.dailymotion.com
+203.210.7.41  proxy-008.dc3.dailymotion.com
+203.210.7.41  proxy-009.dc3.dailymotion.com
+203.210.7.41  proxy-010.dc3.dailymotion.com
+203.210.7.41  proxy-011.dc3.dailymotion.com
+203.210.7.41  proxy-012.dc3.dailymotion.com
+203.210.7.41  proxy-013.dc3.dailymotion.com
+203.210.7.41  proxy-014.dc3.dailymotion.com
+203.210.7.41  proxy-015.dc3.dailymotion.com
+203.210.7.41  proxy-016.dc3.dailymotion.com
+203.210.7.41  proxy-017.dc3.dailymotion.com
+203.210.7.41  proxy-018.dc3.dailymotion.com
+203.210.7.41  proxy-019.dc3.dailymotion.com
+203.210.7.41  proxy-020.dc3.dailymotion.com
+203.210.7.41  proxy-021.dc3.dailymotion.com
+203.210.7.41  proxy-022.dc3.dailymotion.com
+203.210.7.41  proxy-023.dc3.dailymotion.com
+203.210.7.41  proxy-024.dc3.dailymotion.com
+203.210.7.41  proxy-025.dc3.dailymotion.com
+203.210.7.41  proxy-026.dc3.dailymotion.com
+203.210.7.41  proxy-027.dc3.dailymotion.com
+203.210.7.41  proxy-028.dc3.dailymotion.com
+203.210.7.41  proxy-029.dc3.dailymotion.com
+203.210.7.41  proxy-030.dc3.dailymotion.com
+203.210.7.41  proxy-031.dc3.dailymotion.com
+203.210.7.41  proxy-032.dc3.dailymotion.com
+203.210.7.41  proxy-033.dc3.dailymotion.com
+203.210.7.41  proxy-034.dc3.dailymotion.com
+203.210.7.41  proxy-035.dc3.dailymotion.com
+203.210.7.41  proxy-036.dc3.dailymotion.com
+203.210.7.41  proxy-037.dc3.dailymotion.com
+203.210.7.41  proxy-038.dc3.dailymotion.com
+203.210.7.41  proxy-039.dc3.dailymotion.com
+203.210.7.41  proxy-040.dc3.dailymotion.com
+203.210.7.41  proxy-041.dc3.dailymotion.com
+203.210.7.41  proxy-042.dc3.dailymotion.com
+203.210.7.41  proxy-043.dc3.dailymotion.com
+203.210.7.41  proxy-044.dc3.dailymotion.com
+203.210.7.41  proxy-045.dc3.dailymotion.com
+203.210.7.41  proxy-046.dc3.dailymotion.com
+203.210.7.41  proxy-047.dc3.dailymotion.com
+203.210.7.41  proxy-048.dc3.dailymotion.com
+203.210.7.41  proxy-049.dc3.dailymotion.com
+203.210.7.41  proxy-050.dc3.dailymotion.com
+203.210.7.41  proxy-051.dc3.dailymotion.com
+203.210.7.41  proxy-052.dc3.dailymotion.com
+203.210.7.41  proxy-053.dc3.dailymotion.com
+203.210.7.41  proxy-054.dc3.dailymotion.com
+203.210.7.41  proxy-055.dc3.dailymotion.com
+203.210.7.41  proxy-056.dc3.dailymotion.com
+203.210.7.41  proxy-057.dc3.dailymotion.com
+203.210.7.41  proxy-058.dc3.dailymotion.com
+203.210.7.41  proxy-059.dc3.dailymotion.com
+203.210.7.41  proxy-060.dc3.dailymotion.com
+203.210.7.41  proxy-061.dc3.dailymotion.com
+203.210.7.41  proxy-062.dc3.dailymotion.com
+203.210.7.41  proxy-063.dc3.dailymotion.com
+203.210.7.41  proxy-064.dc3.dailymotion.com
+203.210.7.41  proxy-065.dc3.dailymotion.com
+203.210.7.41  proxy-066.dc3.dailymotion.com
+203.210.7.41  proxy-067.dc3.dailymotion.com
+203.210.7.41  proxy-068.dc3.dailymotion.com
+203.210.7.41  proxy-069.dc3.dailymotion.com
+203.210.7.41  proxy-070.dc3.dailymotion.com
+203.210.7.41  proxy-071.dc3.dailymotion.com
+203.210.7.41  proxy-072.dc3.dailymotion.com
+203.210.7.41  proxy-073.dc3.dailymotion.com
+203.210.7.41  proxy-074.dc3.dailymotion.com
+203.210.7.41  proxy-075.dc3.dailymotion.com
+203.210.7.41  proxy-076.dc3.dailymotion.com
+203.210.7.41  proxy-077.dc3.dailymotion.com
+203.210.7.41  proxy-078.dc3.dailymotion.com
+203.210.7.41  proxy-079.dc3.dailymotion.com
+203.210.7.41  proxy-080.dc3.dailymotion.com
+203.210.7.41  proxy-081.dc3.dailymotion.com
+203.210.7.41  proxy-082.dc3.dailymotion.com
+203.210.7.41  proxy-083.dc3.dailymotion.com
+203.210.7.41  proxy-084.dc3.dailymotion.com
+203.210.7.41  proxy-085.dc3.dailymotion.com
+203.210.7.41  proxy-086.dc3.dailymotion.com
+203.210.7.41  proxy-087.dc3.dailymotion.com
+203.210.7.41  proxy-088.dc3.dailymotion.com
+203.210.7.41  proxy-089.dc3.dailymotion.com
+203.210.7.41  proxy-090.dc3.dailymotion.com
+203.210.7.41  proxy-091.dc3.dailymotion.com
+203.210.7.41  proxy-092.dc3.dailymotion.com
+203.210.7.41  proxy-093.dc3.dailymotion.com
+203.210.7.41  proxy-094.dc3.dailymotion.com
+203.210.7.41  proxy-095.dc3.dailymotion.com
+203.210.7.41  proxy-096.dc3.dailymotion.com
+203.210.7.41  proxy-097.dc3.dailymotion.com
+203.210.7.41  proxy-098.dc3.dailymotion.com
+203.210.7.41  proxy-099.dc3.dailymotion.com
+
+
+
+
+
+
+
+
+
+
+
+
+203.210.7.41  proxy-1.sg1.dailymotion.com
+203.210.7.41  proxy-2.sg1.dailymotion.com
+203.210.7.41  proxy-3.sg1.dailymotion.com
+203.210.7.41  proxy-4.sg1.dailymotion.com
+203.210.7.41  proxy-5.sg1.dailymotion.com
+203.210.7.41  proxy-6.sg1.dailymotion.com
+203.210.7.41  proxy-7.sg1.dailymotion.com
+203.210.7.41  proxy-8.sg1.dailymotion.com
+203.210.7.41  proxy-9.sg1.dailymotion.com
+203.210.7.41  proxy-10.sg1.dailymotion.com
+203.210.7.41  proxy-11.sg1.dailymotion.com
+203.210.7.41  proxy-12.sg1.dailymotion.com
+203.210.7.41  proxy-13.sg1.dailymotion.com
+203.210.7.41  proxy-14.sg1.dailymotion.com
+203.210.7.41  proxy-15.sg1.dailymotion.com
+203.210.7.41  proxy-16.sg1.dailymotion.com
 203.210.7.41  proxy-17.sg1.dailymotion.com
-203.210.7.41  proxy-01.dc3.dailymotion.com
+203.210.7.41  proxy-18.sg1.dailymotion.com
+203.210.7.41  proxy-19.sg1.dailymotion.com
+203.210.7.41  proxy-20.sg1.dailymotion.com
+203.210.7.41  proxy-21.sg1.dailymotion.com
+203.210.7.41  proxy-22.sg1.dailymotion.com
+203.210.7.41  proxy-23.sg1.dailymotion.com
+203.210.7.41  proxy-24.sg1.dailymotion.com
+203.210.7.41  proxy-25.sg1.dailymotion.com
+203.210.7.41  proxy-26.sg1.dailymotion.com
+203.210.7.41  proxy-27.sg1.dailymotion.com
+203.210.7.41  proxy-28.sg1.dailymotion.com
+203.210.7.41  proxy-29.sg1.dailymotion.com
+203.210.7.41  proxy-30.sg1.dailymotion.com
+203.210.7.41  proxy-31.sg1.dailymotion.com
+203.210.7.41  proxy-32.sg1.dailymotion.com
+203.210.7.41  proxy-33.sg1.dailymotion.com
+203.210.7.41  proxy-34.sg1.dailymotion.com
+203.210.7.41  proxy-35.sg1.dailymotion.com
+203.210.7.41  proxy-36.sg1.dailymotion.com
+203.210.7.41  proxy-37.sg1.dailymotion.com
+203.210.7.41  proxy-38.sg1.dailymotion.com
+203.210.7.41  proxy-39.sg1.dailymotion.com
+203.210.7.41  proxy-40.sg1.dailymotion.com
+203.210.7.41  proxy-41.sg1.dailymotion.com
+203.210.7.41  proxy-42.sg1.dailymotion.com
+203.210.7.41  proxy-43.sg1.dailymotion.com
+203.210.7.41  proxy-44.sg1.dailymotion.com
+203.210.7.41  proxy-45.sg1.dailymotion.com
+203.210.7.41  proxy-46.sg1.dailymotion.com
+203.210.7.41  proxy-47.sg1.dailymotion.com
+203.210.7.41  proxy-48.sg1.dailymotion.com
+203.210.7.41  proxy-49.sg1.dailymotion.com
+203.210.7.41  proxy-50.sg1.dailymotion.com
+203.210.7.41  proxy-51.sg1.dailymotion.com
+203.210.7.41  proxy-52.sg1.dailymotion.com
+203.210.7.41  proxy-53.sg1.dailymotion.com
+203.210.7.41  proxy-54.sg1.dailymotion.com
+203.210.7.41  proxy-55.sg1.dailymotion.com
+203.210.7.41  proxy-56.sg1.dailymotion.com
+203.210.7.41  proxy-57.sg1.dailymotion.com
+203.210.7.41  proxy-58.sg1.dailymotion.com
+203.210.7.41  proxy-59.sg1.dailymotion.com
+203.210.7.41  proxy-60.sg1.dailymotion.com
+203.210.7.41  proxy-61.sg1.dailymotion.com
+203.210.7.41  proxy-62.sg1.dailymotion.com
+203.210.7.41  proxy-63.sg1.dailymotion.com
+203.210.7.41  proxy-64.sg1.dailymotion.com
+203.210.7.41  proxy-65.sg1.dailymotion.com
+203.210.7.41  proxy-66.sg1.dailymotion.com
+203.210.7.41  proxy-67.sg1.dailymotion.com
+203.210.7.41  proxy-68.sg1.dailymotion.com
+203.210.7.41  proxy-69.sg1.dailymotion.com
+203.210.7.41  proxy-70.sg1.dailymotion.com
+203.210.7.41  proxy-71.sg1.dailymotion.com
+203.210.7.41  proxy-72.sg1.dailymotion.com
+203.210.7.41  proxy-73.sg1.dailymotion.com
+203.210.7.41  proxy-74.sg1.dailymotion.com
+203.210.7.41  proxy-75.sg1.dailymotion.com
+203.210.7.41  proxy-76.sg1.dailymotion.com
+203.210.7.41  proxy-77.sg1.dailymotion.com
+203.210.7.41  proxy-78.sg1.dailymotion.com
+203.210.7.42  proxy-79.sg2.dailymotion.com
+203.210.7.43  proxy-80.sg3.dailymotion.com
+203.210.7.44  proxy-81.sg4.dailymotion.com
+203.210.7.45  proxy-82.sg5.dailymotion.com
+203.210.7.46  proxy-83.sg6.dailymotion.com
+203.210.7.47  proxy-84.sg7.dailymotion.com
+203.210.7.48  proxy-85.sg8.dailymotion.com
+203.210.7.49  proxy-86.sg9.dailymotion.com
+203.210.7.50  proxy-87.sg10.dailymotion.com
+203.210.7.51  proxy-88.sg11.dailymotion.com
+203.210.7.52  proxy-89.sg12.dailymotion.com
+203.210.7.53  proxy-90.sg13.dailymotion.com
+203.210.7.54  proxy-91.sg14.dailymotion.com
+203.210.7.55  proxy-92.sg15.dailymotion.com
+203.210.7.56  proxy-93.sg16.dailymotion.com
+203.210.7.57  proxy-94.sg17.dailymotion.com
+203.210.7.58  proxy-95.sg18.dailymotion.com
+203.210.7.59  proxy-96.sg19.dailymotion.com
+203.210.7.60  proxy-97.sg20.dailymotion.com
+203.210.7.61  proxy-98.sg21.dailymotion.com
+203.210.7.62  proxy-99.sg22.dailymotion.com
+203.210.7.41  logger-03.vty.dailymotion.com
 #dailymotion End
 
 # Ixquick Start
@@ -3956,7 +4193,8 @@
 # Modified hosts end
 #AD hosts Start
 
-#version=201702191001
+
+#version=20170222 925
 #url=https://github.com/vokins/yhosts
 127.0.0.1 localhost
 ::1             ip6-localhost
@@ -4236,6 +4474,11 @@
 127.0.0.1 www.ok365.com
 127.0.0.1 cpro.9xu.com
 127.0.0.1 dl.9xu.com
+127.0.0.1 activity.m.duiba.com.cn
+127.0.0.1 www.duiba.com.cn
+127.0.0.1 yun.duiba.com.cn
+127.0.0.1 engine.tuia.cn
+127.0.0.1 res.ipingke.com
 127.0.0.1 ggle.lywf.me
 127.0.0.1 cszlks.com
 127.0.0.1 ax.ggfeng.com
@@ -4449,6 +4692,7 @@
 127.0.0.1 app.wapx.cn
 127.0.0.1 appcdn.wapx.cn
 127.0.0.1 imgcdn.wapx.cn
+127.0.0.1 wapscdn.wapx.cn
 127.0.0.1 client-stats.gclick.cn
 127.0.0.1 community.cms.gclick.cn
 127.0.0.1 g.gclick.cn
@@ -4624,6 +4868,9 @@
 127.0.0.1 xlmc.sec.miui.com
 127.0.0.1 adinfo.ra1.xlmc.sec.miui.com
 127.0.0.1 staging.admin.e.mi.com
+127.0.0.1 ads.waps.cn
+127.0.0.1 app.waps.cn
+127.0.0.1 stats.mokeedev.com
 127.0.0.1 ad.adfurikun.jp
 127.0.0.1 api.adfurikun.jp
 127.0.0.1 i.adfurikun.jp
@@ -4768,6 +5015,9 @@
 127.0.0.1 zjs.55bbs.com
 127.0.0.1 zpv.55bbs.com
 127.0.0.1 www.5066.net
+127.0.0.1 ll.gxsky.com
+127.0.0.1 j.nnsky.com
+127.0.0.1 dd.022aifang.com
 127.0.0.1 fp.fraudmetrix.cn
 127.0.0.1 static.fraudmetrix.cn
 127.0.0.1 cc.dace.hupu.com
@@ -4891,6 +5141,8 @@
 127.0.0.1 tt.booktxt.net
 127.0.0.1 m.pubbirdf.com
 127.0.0.1 jdian.tianshicto.com
+<img src="http://down.bugeyu.com/ad/xigua/pic/banner-640-150.jpg" width="100%" alt="">
+<a id="bottomLink" target="_blank" href="http://down.bugeyu.com/fish_master_android_61_1.2.1.apk"><img src="http://down.bugeyu.com/ad/xigua/pic/banner-640-150.jpg" width="100%" alt=""></a>
 127.0.0.1 ab.bontech-zh.com
 127.0.0.1 st.zzhyyj.com
 127.0.0.1 z67.zzhyyj.com
@@ -5082,6 +5334,10 @@
 127.0.0.1 s1.9sfang.com
 127.0.0.1 vipjs.csad.cc
 127.0.0.1 www.baidu.com.cyad456.com
+127.0.0.1 img1.pxpbj.com
+127.0.0.1 img2.pxpbj.com
+127.0.0.1 img3.pxpbj.com
+127.0.0.1 s.ksrsy.com
 127.0.0.1 zz12x.net
 127.0.0.1 zhtjdl.com
 127.0.0.1 s.bxgmb.com
@@ -5090,7 +5346,6 @@
 127.0.0.1 s.nmqbg.com
 127.0.0.1 sss.jusha.com
 127.0.0.1 s.ybnrm.com
-127.0.0.1 s.mxmrt
 127.0.0.1 www.punuomisi.cn
 127.0.0.1 pic.51vipedu.com
 127.0.0.1 www.jx8888.win
@@ -5163,7 +5418,12 @@
 127.0.0.1 lotraden.online
 127.0.0.1 satoriomo.xyz
 127.0.0.1 www.czgzs.net
-127.0.0.1 yunbofangbt.com
+127.0.0.1 js3555.wmhlch.com
+127.0.0.1 code.3shangyou.com
+127.0.0.1 t.fujianryt.com
+127.0.0.1 www.nmpcdn.com
+127.0.0.1 js883.szfm1.com
+127.0.0.1 js3555.eduzzjy.com
 127.0.0.1 js3555.doupuer.com
 127.0.0.1 images.beilic.com
 127.0.0.1 j.91cmzx.com
@@ -5452,6 +5712,8 @@
 127.0.0.1 t10.yijia2009.com
 127.0.0.1 js4273.yzh360.com
 127.0.0.1 www.appfh.com
+127.0.0.1 bd1.52che.com
+127.0.0.1 bd2.52che.com
 127.0.0.1 33.autohome.com.cn
 127.0.0.1 c.autohome.com.cn
 127.0.0.1 h.pcd.autohome.com.cn
@@ -5491,6 +5753,8 @@
 127.0.0.1 c.weareqy.com
 127.0.0.1 r.weareqy.com
 127.0.0.1 rc.weareqy.com
+127.0.0.1 in.jghcy.com
+127.0.0.1 s.jghcy.com
 127.0.0.1 uimg.1qwe3r.com
 127.0.0.1 slb.kanshangqiu.com
 127.0.0.1 slb.sxuantang.com
@@ -7047,6 +7311,7 @@
 127.0.0.1 media.admob.com
 127.0.0.1 adfarm.mediaplex.com
 127.0.0.1 secure.img-cdn.mediaplex.com
+127.0.0.1 csi.gstatic.com
 127.0.0.1 ssl.google-analytics.com
 127.0.0.1 www.googletagmanager.com
 127.0.0.1 www.googletagservices.com
@@ -8241,7 +8506,6 @@
 127.0.0.1 b.smartvideo.youku.com
 127.0.0.1 c.yes.youku.com
 127.0.0.1 cm.atm.youku.com
-127.0.0.1 cmstool.youku.com
 127.0.0.1 count.atm.youku.com
 127.0.0.1 dev-push.m.youku.com
 127.0.0.1 dl.g.youku.com
@@ -8284,7 +8548,6 @@
 127.0.0.1 l.ftx.fancyapi.com
 127.0.0.1 w.fancyapi.com
 127.0.0.1 l.fancyapi.com
-127.0.0.1 image.uczzd.cn
 127.0.0.1 hp.smiler-ad.com
 127.0.0.1 static8.pmadx.com
 127.0.0.1 www.bfshan.cn
@@ -8299,91 +8562,284 @@
 127.0.0.1 20170202.logic.cpm.cm.kankan.com
 127.0.0.1 20170202.float.kankan.com
 127.0.0.1 20170203.biz5.kankan.com
-127.0.0.1 20170203.logic.cpm.cm.kankan.com
-127.0.0.1 20170203.float.kankan.com
-127.0.0.1 20170204.biz5.kankan.com
-127.0.0.1 20170204.logic.cpm.cm.kankan.com
-127.0.0.1 20170204.float.kankan.com
-127.0.0.1 20170205.biz5.kankan.com
-127.0.0.1 20170205.logic.cpm.cm.kankan.com
-127.0.0.1 20170205.float.kankan.com
-127.0.0.1 20170206.biz5.kankan.com
-127.0.0.1 20170206.logic.cpm.cm.kankan.com
-127.0.0.1 20170206.float.kankan.com
-127.0.0.1 20170207.biz5.kankan.com
-127.0.0.1 20170207.logic.cpm.cm.kankan.com
-127.0.0.1 20170207.float.kankan.com
-127.0.0.1 20170208.biz5.kankan.com
-127.0.0.1 20170208.logic.cpm.cm.kankan.com
-127.0.0.1 20170208.float.kankan.com
-127.0.0.1 20170209.biz5.kankan.com
-127.0.0.1 20170209.logic.cpm.cm.kankan.com
-127.0.0.1 20170209.float.kankan.com
-127.0.0.1 20170210.biz5.kankan.com
-127.0.0.1 20170210.logic.cpm.cm.kankan.com
-127.0.0.1 20170210.float.kankan.com
-127.0.0.1 20170211.biz5.kankan.com
-127.0.0.1 20170211.logic.cpm.cm.kankan.com
-127.0.0.1 20170211.float.kankan.com
-127.0.0.1 20170212.biz5.kankan.com
-127.0.0.1 20170212.logic.cpm.cm.kankan.com
-127.0.0.1 20170212.float.kankan.com
-127.0.0.1 20170213.biz5.kankan.com
-127.0.0.1 20170213.logic.cpm.cm.kankan.com
-127.0.0.1 20170213.float.kankan.com
-127.0.0.1 20170214.biz5.kankan.com
-127.0.0.1 20170214.logic.cpm.cm.kankan.com
-127.0.0.1 20170214.float.kankan.com
-127.0.0.1 20170215.biz5.kankan.com
-127.0.0.1 20170215.logic.cpm.cm.kankan.com
-127.0.0.1 20170215.float.kankan.com
-127.0.0.1 20170216.biz5.kankan.com
-127.0.0.1 20170216.logic.cpm.cm.kankan.com
-127.0.0.1 20170216.float.kankan.com
-127.0.0.1 20170217.biz5.kankan.com
-127.0.0.1 20170217.logic.cpm.cm.kankan.com
-127.0.0.1 20170217.float.kankan.com
-127.0.0.1 20170218.biz5.kankan.com
-127.0.0.1 20170218.logic.cpm.cm.kankan.com
-127.0.0.1 20170218.float.kankan.com
-127.0.0.1 20170219.biz5.kankan.com
-127.0.0.1 20170219.logic.cpm.cm.kankan.com
-127.0.0.1 20170219.float.kankan.com
-127.0.0.1 20170220.biz5.kankan.com
-127.0.0.1 20170220.logic.cpm.cm.kankan.com
-127.0.0.1 20170220.float.kankan.com
-127.0.0.1 20170221.biz5.kankan.com
-127.0.0.1 20170221.logic.cpm.cm.kankan.com
-127.0.0.1 20170221.float.kankan.com
-127.0.0.1 20170222.biz5.kankan.com
-127.0.0.1 20170222.logic.cpm.cm.kankan.com
-127.0.0.1 20170222.float.kankan.com
-127.0.0.1 20170223.biz5.kankan.com
-127.0.0.1 20170223.logic.cpm.cm.kankan.com
-127.0.0.1 20170223.float.kankan.com
-127.0.0.1 20170224.biz5.kankan.com
-127.0.0.1 20170224.logic.cpm.cm.kankan.com
-127.0.0.1 20170224.float.kankan.com
-127.0.0.1 20170225.biz5.kankan.com
-127.0.0.1 20170225.logic.cpm.cm.kankan.com
-127.0.0.1 20170225.float.kankan.com
-127.0.0.1 20170226.biz5.kankan.com
-127.0.0.1 20170226.logic.cpm.cm.kankan.com
-127.0.0.1 20170226.float.kankan.com
-127.0.0.1 20170227.biz5.kankan.com
-127.0.0.1 20170227.logic.cpm.cm.kankan.com
-127.0.0.1 20170227.float.kankan.com
-127.0.0.1 20170228.biz5.kankan.com
-127.0.0.1 20170228.logic.cpm.cm.kankan.com
-127.0.0.1 20170228.float.kankan.com
-127.0.0.1 20170229.biz5.kankan.com
-127.0.0.1 20170229.logic.cpm.cm.kankan.com
-127.0.0.1 20170229.float.kankan.com
-127.0.0.1 20170230.biz5.kankan.com
-127.0.0.1 20170230.logic.cpm.cm.kankan.com
-127.0.0.1 20170230.float.kankan.com
-127.0.0.1 20170231.biz5.kankan.com
-127.0.0.1 20170231.logic.cpm.cm.kankan.com
-127.0.0.1 20170231.float.kankan.com
-
 #AD hosts End
+#偷来的去广告
+
+#twitter
+0.0.0.0 t.tellapart.com
+0.0.0.0 syndication.twitter.com
+
+#google
+0.0.0.0 2542116.fls.doubleclick.net
+0.0.0.0 ad.doubleclick.net
+0.0.0.0 cm.g.doubleclick.net
+0.0.0.0 pubads.g.doubleclick.net
+0.0.0.0 googleads.g.doubleclick.net
+0.0.0.0 securepubads.g.doubleclick.net
+0.0.0.0 static.doubleclick.net
+0.0.0.0 ad-g.doubleclick.net
+0.0.0.0 ad.mo.doubleclick.net
+0.0.0.0 doubleclick.net
+0.0.0.0 pagead.googlesyndication.com
+0.0.0.0 pagead1.googlesyndication.com
+0.0.0.0 pagead2.googlesyndication.com
+0.0.0.0 ads.adadapted.com
+
+#facebook
+0.0.0.0		staticxx.facebook.com
+
+#流氓导航锁主页屏蔽（请不要使用360浏览器否则hosts会无效）
+0.0.0.0		ie.n502.com
+0.0.0.0		www.n502.com
+0.0.0.0		hao.dh033.com
+0.0.0.0		dh033.com
+0.0.0.0		www.dh033.com
+0.0.0.0		www.ie8886.ren
+0.0.0.0		www.bxmv.com
+
+#qq空间照片右下角广告
+0.0.0.0		i.gdt.qq.com
+
+#冰点文库下载软件（百度软件）
+0.0.0.0 j.br.baidu.com
+0.0.0.0 scloud-dlsw.br.baidu.com
+0.0.0.0 bingdian.dorapp.com
+0.0.0.0 w.x.baidu.com
+0.0.0.0 speedxbu.baidu.com
+0.0.0.0 jifendownload.2345.cn
+
+#123du.cc 123读
+0.0.0.0		nl.wodhid.com
+0.0.0.0		s.taobaly.cn
+
+#wap.xxbiquge.com
+
+0.0.0.0	wdta.xycnz.com
+0.0.0.0	w.picsinfog.com
+0.0.0.0	m.corocksi.com
+0.0.0.0	fen.dkdlsj.com
+0.0.0.0	s.xhsxgmt.cn
+0.0.0.0	to.wodhid.com
+0.0.0.0	c.tbaocdn.com
+0.0.0.0	9989.hytgj.com
+0.0.0.0	s.liangziweixg.com
+
+#du.9gxs.com
+0.0.0.0	s.haiyunx.com
+
+#dyaihao.com
+0.0.0.0 ly.betterobot.cn
+0.0.0.0 slb.tiangoutai.com
+0.0.0.0 slb.gedawang.com
+0.0.0.0 pl.263gmail.org
+0.0.0.0 vs15.gzcm.u3.ucweb.com
+120.237.243.6 zxfuli.yy991.com
+121.10.172.186 www.dyaihao.com
+
+#www.mgtv.com
+0.0.0.0 bs.da.hunantv.com
+0.0.0.0 pc.da.mgtv.com
+0.0.0.0 x.da.hunantv.com
+0.0.0.0 y.da.hunantv.com
+0.0.0.0 err.da.hunantv.com
+0.0.0.0 log.da.hunantv.com
+0.0.0.0 log.v2.hunantv.com
+0.0.0.0 v2.log.hunantv.com
+
+#www.pptv.com
+0.0.0.0 ads.aplus.pptv.com
+0.0.0.0 de.as.pptv.com
+
+#www.wasu.cn
+0.0.0.0 adsystem.wasu.tv
+0.0.0.0 ads.wasu.tv
+0.0.0.0 afp.wasu.cn
+0.0.0.0 afpcreative.wasu.cn
+
+#www.youku.com****
+0.0.0.0 ad.api.3g.youku.com
+0.0.0.0 ad.api.3g.tudou.com
+
+#iQiyi****
+0.0.0.0 cm.passport.iqiyi.com
+0.0.0.0 api.cupid.iqiyi.com
+
+#v.qq.com
+0.0.0.0 union.video.qq.com
+0.0.0.0 bla.gtimg.com
+0.0.0.0 ra.gtimg.com
+0.0.0.0 imc.l.qq.com
+0.0.0.0 l.qq.com
+0.0.0.0 livec.l.qq.com
+0.0.0.0 livep.l.qq.com
+0.0.0.0 livew.l.qq.com
+0.0.0.0 m.l.qq.com
+0.0.0.0 p.l.qq.com
+0.0.0.0 p.tencentmind.com
+0.0.0.0 cm.l.qq.com
+0.0.0.0 c.l.qq.com
+
+#tv.qq.com
+0.0.0.0 lives.l.qq.com
+
+#www.baofeng.com
+0.0.0.0 xs.houyi.baofeng.net
+
+#sohu/video
+0.0.0.0 agn.aty.sohu.com
+0.0.0.0 mmg.aty.sohu.com
+0.0.0.0 m.aty.sohu.com
+
+#Sina
+0.0.0.0 d00.sina.com.cn
+0.0.0.0 d0.sina.com.cn
+0.0.0.0 d1.sina.com.cn
+0.0.0.0 d2.sina.com.cn
+0.0.0.0 d3.sina.com.cn
+0.0.0.0 d4.sina.com.cn
+0.0.0.0 d5.sina.com.cn
+0.0.0.0 d6.sina.com.cn
+0.0.0.0 d7.sina.com.cn
+0.0.0.0 d8.sina.com.cn
+0.0.0.0 d9.sina.com.cn
+0.0.0.0 sax.sina.com.cn
+0.0.0.0 sax.sina.cn
+0.0.0.0 sdkapp.mobile.sina.cn
+0.0.0.0 wbapp.mobile.sina.cn
+
+#taobao
+0.0.0.0 p.tanx.com
+0.0.0.0 ope.tanx.com
+
+#jd.com
+0.0.0.0 x.jd.com
+0.0.0.0 ads.union.jd.com
+0.0.0.0 u.x.jd.com
+0.0.0.0 wn.x.jd.com
+0.0.0.0 im-x.jd.com
+0.0.0.0 cm.jd.com
+
+#163
+0.0.0.0 g.163.com
+0.0.0.0 img1.126.net
+
+#tencent-qq
+#0.0.0.0 c.gdt.qq.com
+0.0.0.0 v.gdt.qq.com
+0.0.0.0 pgdt.gtimg.cn
+0.0.0.0 analy.qq.com
+0.0.0.0 q.i.gdt.qq.com
+0.0.0.0 ad.qun.qq.com
+0.0.0.0 cgi.pub.qq.com
+0.0.0.0 pinghot.qq.com
+0.0.0.0 oth.eve.mdt.qq.com
+0.0.0.0 isdspeed.qq.com
+
+#qq.com
+0.0.0.0 w.l.qq.com
+0.0.0.0 wa.gtimg.com
+0.0.0.0 wb.gtimg.com
+0.0.0.0 lb.gtimg.com
+0.0.0.0 tui.gtimg.com
+0.0.0.0 ta.qq.com
+
+#qq-iframe
+0.0.0.0 mi.gdt.qq.com
+0.0.0.0 swa.gtimg.com
+0.0.0.0 news.l.qq.com
+0.0.0.0 analy.qzone.qq.com
+
+#sohu.com
+0.0.0.0 s.go.sohu.com
+0.0.0.0 images.sohu.com
+0.0.0.0 inte.sogou.com
+
+#baidu
+0.0.0.0 pos.baidu.com
+0.0.0.0 cpro.baidu.com
+0.0.0.0 cpro.baidustatic.com
+0.0.0.0 cpro2.baidustatic.com
+0.0.0.0 hm.baidu.com
+0.0.0.0 entry.baidu.com
+0.0.0.0 idm.bce.baidu.com
+0.0.0.0 cm.pos.baidu.com
+0.0.0.0 wn.pos.baidu.com
+0.0.0.0 dup.baidustatic.com
+0.0.0.0 hmma.baidu.com
+0.0.0.0 hdj.baidu.com
+0.0.0.0 wapsite.baidu.com
+0.0.0.0 ubmcmm.baidustatic.com
+0.0.0.0 eclick.baidu.com
+0.0.0.0 mobads-logs.baidu.com
+0.0.0.0 mobads-speed.baidu.com
+0.0.0.0 mobads.baidu.com
+#0.0.0.0 bdimg.share.baidu.com
+0.0.0.0 s.cpro.baidu.com
+
+#autohome
+0.0.0.0 pcd.autohome.com.cn
+0.0.0.0 ad.app.autohome.com.cn
+0.0.0.0 adnewnc.app.autohome.com.cn
+0.0.0.0 rd.autohome.com.cn
+
+#Google
+0.0.0.0 media.admob.com
+
+#winrar
+0.0.0.0 ad.winrar.com.cn
+
+#qtmojo.cn
+0.0.0.0 wmcdn.qtmojo.cn
+0.0.0.0 lejuim.qtmojo.com
+
+#miaozhen.com
+0.0.0.0 g.cn.miaozhen.com
+0.0.0.0 sd.cn.miaozhen.com
+0.0.0.0 qq.m.cn.miaozhen.com
+0.0.0.0 hunantv.m.cn.miaozhen.com
+0.0.0.0 iqiyi.m.cn.miaozhen.com
+
+#mediav.com
+0.0.0.0 show.m.mediav.com
+0.0.0.0 material.mediav.com
+0.0.0.0 max-l.mediav.com
+
+#wo.com.cn
+0.0.0.0 ad.1111cpc.com
+0.0.0.0 wo.iuni.com.cn
+
+#other
+0.0.0.0 yes1.feng.com
+0.0.0.0 v.admaster.com.cn
+0.0.0.0 c.wrating.com
+0.0.0.0 www.yydd.com
+0.0.0.0 pcookie.cnzz.com
+0.0.0.0 c.cnzz.com
+0.0.0.0 s4.cnzz.com
+0.0.0.0 s11.cnzz.com
+0.0.0.0 q14.cnzz.com
+0.0.0.0 w.cnzz.com
+0.0.0.0 z4.cnzz.com
+0.0.0.0 z11.cnzz.com
+0.0.0.0 s95.cnzz.com
+0.0.0.0 z13.cnzz.com
+0.0.0.0 cnzz.mmstat.com
+0.0.0.0 static.hnfjx.com
+0.0.0.0 rd.139site.com
+0.0.0.0 m.duobao999.com
+0.0.0.0 dl.duobao999.com
+0.0.0.0 app.1yt.me
+0.0.0.0 qmqj2.xy.com
+0.0.0.0 ad.xildiere.com
+0.0.0.0 we.tm
+0.0.0.0 cell.zhybzp.cn
+0.0.0.0 www.keydot.net
+0.0.0.0 keydot.net
+0.0.0.0 www.51vipedu.com
+0.0.0.0 lynn.zgsemi.cn
+0.0.0.0 s.polkoa.com
+0.0.0.0 s.baidu7653.com
+0.0.0.0 s.chebse.com
+0.0.0.0 ssp.ad.xiaomi.com
+0.0.0.0 a.mp.uc.cn
+0.0.0.0 vs6.gzcm.u3.ucweb.com
