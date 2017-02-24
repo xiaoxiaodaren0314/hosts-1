@@ -3,7 +3,7 @@
 # Web:http://htcui.com
 # iOS/OS X/Windows/linux/
 ##################################################
-# Last updated: 2017-02-19
+# Last updated: 2017-02-22
 ##################################################
 # 【racaljk】
 # https://github.com/racaljk/hosts
@@ -677,6 +677,8 @@
 203.210.7.41	directory.google.com
 203.210.7.41	dir.google.com
 203.210.7.41	events.google.com
+203.210.7.41	savethedate.foo
+203.210.7.41	www.savethedate.foo
 203.210.7.41	googledrive.com
 203.210.7.41	docs.google.com
 203.210.7.41	drive.google.com
@@ -2754,7 +2756,7 @@
 203.210.7.41	gcm-preprod.googleapis.com
 64.233.171.192	supl.google.com
 203.210.7.41	dl.google.com
-203.210.7.41	pagead2.googlesyndication.com
+#203.210.7.41	pagead2.googlesyndication.com
 203.210.7.41	ssl.google-analytics.com
 203.210.7.41	alt0-mtalk.google.com
 203.210.7.41	alt1-mtalk.google.com
@@ -3185,6 +3187,77 @@
 52.72.26.162	help.issuu.com
 # issuu End
 
+# Kobo Start
+128.127.159.1	magazines-adf.kobo.com
+157.55.176.209	social.kobobooks.com
+191.236.35.232	storedownloads.kobo.com
+191.238.229.33	discovery.kobobooks.com
+204.87.189.12	images.kobobooks.com
+204.87.189.201	ftp.kobobooks.com
+204.87.189.51	kobobooks.com
+204.87.189.51	prod-www.kobobooks.com
+204.87.189.71	ecimagest.kobobooks.com
+204.87.189.87	prod-store.kobobooks.com
+204.87.189.92	kobo.com
+13.92.121.97	kobomaintenance.kobobooks.com
+23.227.38.32	au.kobobooks.com
+23.227.38.32	ca-fr.kobobooks.com
+23.227.38.32	ca.kobobooks.com
+23.227.38.32	corporate.kobobooks.com
+23.227.38.32	de.kobobooks.com
+23.227.38.32	es.kobobooks.com
+23.227.38.32	fr.kobobooks.com
+23.227.38.32	gl.kobobooks.com
+23.227.38.32	it.kobobooks.com
+23.227.38.32	nz.kobobooks.com
+23.227.38.32	pt.kobobooks.com
+23.227.38.32	uk.kobobooks.com
+23.227.38.32	us.kobobooks.com
+23.38.96.57	akimages.kobobooks.com
+23.38.96.57	api.kobobooks.com
+23.38.96.57	esmx.kobobooks.com
+23.38.96.57	esmxsecure.kobobooks.com
+23.38.96.57	merch.kobobooks.com
+23.38.96.57	mobile.kobobooks.com
+23.38.96.57	mobilepartner.kobobooks.com
+23.38.96.57	mobilestage.kobobooks.com
+23.38.96.57	partner.kobobooks.com
+23.38.96.57	ptbr.kobobooks.com
+23.38.96.57	ptbrsecure.kobobooks.com
+23.38.96.57	ratingsapi.kobobooks.com
+23.38.96.57	read.kobobooks.com
+23.38.96.57	secure.kobobooks.com
+23.38.96.57	services.kobobooks.com
+23.38.96.57	store.kobobooks.
+23.38.96.57	tr.kobobooks.com
+23.38.96.57	webstore.kobobooks.com
+23.38.96.57	webstore2.kobobooks.com
+23.38.96.57	writinglife.kobobooks.com
+23.38.96.57	www.kobobooks.com
+23.38.99.249	assets.kobo.com
+23.38.99.249	de.kobo.com
+23.38.99.249	es.kobo.com
+23.38.99.249	fr.kobo.com
+23.38.99.249	it.kobo.com
+23.38.99.249	ja.kobo.com
+23.38.99.249	nl.kobo.com
+23.38.99.249	pt.kobo.com
+23.38.99.249	ptbr.kobo.com
+23.38.99.249	read.kobo.com
+23.38.99.249	rum.kobo.com
+23.38.99.249	stage.kobo.com
+23.38.99.249	storeapi.kobo.com
+23.38.99.249	tw.kobo.com
+23.38.99.249	www.kobo.com
+40.114.86.114	sorry.kobo.com
+75.98.196.99	media.kobobooks.com
+88.221.15.40	contentdownloads.kobobooks.com
+88.221.15.40	get.kobobooks.com
+88.221.15.50	ecimages.kobobooks.com
+88.221.15.50	ecmimages.kobobooks.com
+89.187.65.68	insiders.kobo.com
+# Kobo End
+
 # Line Start
 203.104.138.138		line.me
 23.66.239.246		w.line.me
@@ -3479,21 +3552,13 @@
 203.210.7.41	98.media.tumblr.com
 203.210.7.41	99.media.tumblr.com
 203.210.7.41	static.tumblr.com
-203.210.7.41	secure.assets.tumblr.com
 203.210.7.41	secure.static.tumblr.com
 203.210.7.41	secure.assets.tumblr.com
 203.210.7.41	ls.srvcs.tumblr.com
 203.210.7.41	media.tumblr.com
-203.210.7.41	media.tumblr.com
 203.210.7.41	assets.tumblr.com
-203.210.7.41	assets.tumblr.com
-203.210.7.41	vt.tumblr.com
 203.210.7.41	vtt.tumblr.com
 203.210.7.41	vt.tumblr.com
-#54.230.151.138	vt.tumblr.com
-#52.84.189.141	vt.tumblr.com
-203.210.7.41	secure.static.tumblr.com
-203.210.7.41	secure.static.tumblr.com
 203.210.7.41	secure.static.tumblr.com
 # Tumblr End
 
@@ -3635,9 +3700,9 @@
 119.161.9.151	c5.ah.yahoo.com
 #video.yahoo.com
 #sg.yahoo.com
-119.160.254.215	d.yimg.com
+119.161.14.18	d.yimg.com
 106.10.136.195	de.yahoo.com
-119.160.254.215	e.yimg.com
+119.161.14.18	e.yimg.com
 98.139.21.169	edit.yahoo.com
 #203.84.197.25	help.yahoo.com
 
@@ -3662,12 +3727,12 @@
 106.10.137.175	geo.query.yahoo.com
 124.108.101.57	geo.yahoo.com
 203.84.197.25	accounts-flickr.yahoo.com
-119.160.254.215	h.yimg.com
+119.161.14.18	h.yimg.com
 106.10.199.10	hk.news.yahoo.com
 106.10.138.240	hk.yahoo.com
 206.190.39.139	hsrd.yahoo.com
 106.10.193.20	hk-mg61.mail.yahoo.com
-119.160.254.215	l.yimg.com
+119.161.14.18	l.yimg.com
 68.142.250.161	l.yimg.com
 202.43.194.205	login.yahoo.com
 106.10.199.91	c1.staticflickr.com
@@ -3678,9 +3743,9 @@
 106.10.193.20	open.login.yahoo.com
 66.163.168.247	open.login.yahoo.com
 216.39.54.12	overview.mail.yahoo.com
-119.160.254.215	p.yimg.com
+119.161.14.18	p.yimg.com
 119.161.14.17	s.yimg.com
-119.160.254.215	s1.yimg.com
+119.161.14.18	s1.yimg.com
 106.10.193.20	sa.edit.yahoo.com
 208.71.44.31	secure.flickr.com
 106.10.193.30	sp.analytics.yahoo.com
@@ -3724,7 +3789,7 @@
 192.0.78.12	lucifr.wordpress.com
 192.0.78.18	r-login.wordpress.com
 #68.232.44.119	s.stats.wordpress.com
-192.229.144.127	s.w.org
+192.0.77.48	s.w.org
 192.0.73.2	s.wordpress.com
 66.155.40.250	s.wordpress.org
 192.0.77.32	s0.wp.com
@@ -3739,28 +3804,6 @@
 192.0.78.12	zh-cn.wordpress.com
 192.0.78.12	zh-sg.wordpress.com
 # WordPress End
-
-# XDA Start
-68.232.44.229	cdn.www.xda-developers.com
-68.232.44.229	cdn.media.xda-developers.com
-174.129.2.23	cdn.xda-developers.com
-192.229.144.96	cdn1.xda-developers.com
-192.229.144.96	cdn2.xda-developers.com
-192.229.144.96	cdn3.xda-developers.com
-93.184.216.96	cdn4.xda-developers.com
-192.229.144.96	cdn-img.xda-developers.com
-192.229.144.96	cdn-www.xda-developers.com
-192.229.144.96	cs261.wac.edgecastcdn.net
-207.244.72.9	forum.xda-developers.com
-23.32.241.66	m.servebom.com
-117.18.237.203	tags.bkrtx.com
-68.232.44.229	wac.8244.edgecastcdn.net
-207.244.73.44	www.xda-developers.com
-207.244.73.44	xda-developers.com
-43.249.37.246	forum-lw-1.xda-cdn.com
-182.161.72.74	static.criteo.net
-151.101.52.134	xdaportal.disqus.com
-# XDA End
 
 #TensorFlow start
 203.210.7.41	www.tensorflow.org
@@ -3783,10 +3826,11 @@
 
 #dailymotion Start
 #195.8.215.136		dailymotion.com
+203.210.7.41  api.dmcdn.net
 203.210.7.41  faq.dailymotion.com
 203.210.7.41  dailymotion.com
 203.210.7.41  www.dailymotion.com
-203.210.7.41	 api.dailymotion.com
+203.210.7.41  api.dailymotion.com
 203.210.7.41  push-api.dailymotion.com
 203.210.7.41  mc.dailymotion.com
 203.210.7.41  xbased.api.dailymotion.com
@@ -3804,21 +3848,217 @@
 203.210.7.41  static2-ssl.dmcdn.net
 203.210.7.41  s1-ssl.dmcdn.net
 203.210.7.41  s2-ssl.dmcdn.net
-203.210.7.41  proxy-01.sg1.dailymotion.com
-203.210.7.41  proxy-01.sg1.dailymotion.com
-203.210.7.41  proxy-01.sg1.dailymotion.com
-203.210.7.41  proxy-01.sg1.dailymotion.com
-203.210.7.41  proxy-01.sg1.dailymotion.com
-203.210.7.41  proxy-01.sg1.dailymotion.com
-203.210.7.41  proxy-01.sg1.dailymotion.com
-203.210.7.41  proxy-01.sg1.dailymotion.com
-203.210.7.41  proxy-01.sg1.dailymotion.com
-203.210.7.41  proxy-01.sg1.dailymotion.com
-203.210.7.41  proxy-01.sg1.dailymotion.com
-203.210.7.41  proxy-01.sg1.dailymotion.com
-203.210.7.41  proxy-07.sg1.dailymotion.com
+203.210.7.41  proxy-001.dc3.dailymotion.com
+203.210.7.41  proxy-002.dc3.dailymotion.com
+203.210.7.41  proxy-003.dc3.dailymotion.com
+203.210.7.41  proxy-004.dc3.dailymotion.com
+203.210.7.41  proxy-005.dc3.dailymotion.com
+203.210.7.41  proxy-006.dc3.dailymotion.com
+203.210.7.41  proxy-007.dc3.dailymotion.com
+203.210.7.41  proxy-008.dc3.dailymotion.com
+203.210.7.41  proxy-009.dc3.dailymotion.com
+203.210.7.41  proxy-010.dc3.dailymotion.com
+203.210.7.41  proxy-011.dc3.dailymotion.com
+203.210.7.41  proxy-012.dc3.dailymotion.com
+203.210.7.41  proxy-013.dc3.dailymotion.com
+203.210.7.41  proxy-014.dc3.dailymotion.com
+203.210.7.41  proxy-015.dc3.dailymotion.com
+203.210.7.41  proxy-016.dc3.dailymotion.com
+203.210.7.41  proxy-017.dc3.dailymotion.com
+203.210.7.41  proxy-018.dc3.dailymotion.com
+203.210.7.41  proxy-019.dc3.dailymotion.com
+203.210.7.41  proxy-020.dc3.dailymotion.com
+203.210.7.41  proxy-021.dc3.dailymotion.com
+203.210.7.41  proxy-022.dc3.dailymotion.com
+203.210.7.41  proxy-023.dc3.dailymotion.com
+203.210.7.41  proxy-024.dc3.dailymotion.com
+203.210.7.41  proxy-025.dc3.dailymotion.com
+203.210.7.41  proxy-026.dc3.dailymotion.com
+203.210.7.41  proxy-027.dc3.dailymotion.com
+203.210.7.41  proxy-028.dc3.dailymotion.com
+203.210.7.41  proxy-029.dc3.dailymotion.com
+203.210.7.41  proxy-030.dc3.dailymotion.com
+203.210.7.41  proxy-031.dc3.dailymotion.com
+203.210.7.41  proxy-032.dc3.dailymotion.com
+203.210.7.41  proxy-033.dc3.dailymotion.com
+203.210.7.41  proxy-034.dc3.dailymotion.com
+203.210.7.41  proxy-035.dc3.dailymotion.com
+203.210.7.41  proxy-036.dc3.dailymotion.com
+203.210.7.41  proxy-037.dc3.dailymotion.com
+203.210.7.41  proxy-038.dc3.dailymotion.com
+203.210.7.41  proxy-039.dc3.dailymotion.com
+203.210.7.41  proxy-040.dc3.dailymotion.com
+203.210.7.41  proxy-041.dc3.dailymotion.com
+203.210.7.41  proxy-042.dc3.dailymotion.com
+203.210.7.41  proxy-043.dc3.dailymotion.com
+203.210.7.41  proxy-044.dc3.dailymotion.com
+203.210.7.41  proxy-045.dc3.dailymotion.com
+203.210.7.41  proxy-046.dc3.dailymotion.com
+203.210.7.41  proxy-047.dc3.dailymotion.com
+203.210.7.41  proxy-048.dc3.dailymotion.com
+203.210.7.41  proxy-049.dc3.dailymotion.com
+203.210.7.41  proxy-050.dc3.dailymotion.com
+203.210.7.41  proxy-051.dc3.dailymotion.com
+203.210.7.41  proxy-052.dc3.dailymotion.com
+203.210.7.41  proxy-053.dc3.dailymotion.com
+203.210.7.41  proxy-054.dc3.dailymotion.com
+203.210.7.41  proxy-055.dc3.dailymotion.com
+203.210.7.41  proxy-056.dc3.dailymotion.com
+203.210.7.41  proxy-057.dc3.dailymotion.com
+203.210.7.41  proxy-058.dc3.dailymotion.com
+203.210.7.41  proxy-059.dc3.dailymotion.com
+203.210.7.41  proxy-060.dc3.dailymotion.com
+203.210.7.41  proxy-061.dc3.dailymotion.com
+203.210.7.41  proxy-062.dc3.dailymotion.com
+203.210.7.41  proxy-063.dc3.dailymotion.com
+203.210.7.41  proxy-064.dc3.dailymotion.com
+203.210.7.41  proxy-065.dc3.dailymotion.com
+203.210.7.41  proxy-066.dc3.dailymotion.com
+203.210.7.41  proxy-067.dc3.dailymotion.com
+203.210.7.41  proxy-068.dc3.dailymotion.com
+203.210.7.41  proxy-069.dc3.dailymotion.com
+203.210.7.41  proxy-070.dc3.dailymotion.com
+203.210.7.41  proxy-071.dc3.dailymotion.com
+203.210.7.41  proxy-072.dc3.dailymotion.com
+203.210.7.41  proxy-073.dc3.dailymotion.com
+203.210.7.41  proxy-074.dc3.dailymotion.com
+203.210.7.41  proxy-075.dc3.dailymotion.com
+203.210.7.41  proxy-076.dc3.dailymotion.com
+203.210.7.41  proxy-077.dc3.dailymotion.com
+203.210.7.41  proxy-078.dc3.dailymotion.com
+203.210.7.41  proxy-079.dc3.dailymotion.com
+203.210.7.41  proxy-080.dc3.dailymotion.com
+203.210.7.41  proxy-081.dc3.dailymotion.com
+203.210.7.41  proxy-082.dc3.dailymotion.com
+203.210.7.41  proxy-083.dc3.dailymotion.com
+203.210.7.41  proxy-084.dc3.dailymotion.com
+203.210.7.41  proxy-085.dc3.dailymotion.com
+203.210.7.41  proxy-086.dc3.dailymotion.com
+203.210.7.41  proxy-087.dc3.dailymotion.com
+203.210.7.41  proxy-088.dc3.dailymotion.com
+203.210.7.41  proxy-089.dc3.dailymotion.com
+203.210.7.41  proxy-090.dc3.dailymotion.com
+203.210.7.41  proxy-091.dc3.dailymotion.com
+203.210.7.41  proxy-092.dc3.dailymotion.com
+203.210.7.41  proxy-093.dc3.dailymotion.com
+203.210.7.41  proxy-094.dc3.dailymotion.com
+203.210.7.41  proxy-095.dc3.dailymotion.com
+203.210.7.41  proxy-096.dc3.dailymotion.com
+203.210.7.41  proxy-097.dc3.dailymotion.com
+203.210.7.41  proxy-098.dc3.dailymotion.com
+203.210.7.41  proxy-099.dc3.dailymotion.com
+
+
+
+
+
+
+
+
+
+
+
+
+203.210.7.41  proxy-1.sg1.dailymotion.com
+203.210.7.41  proxy-2.sg1.dailymotion.com
+203.210.7.41  proxy-3.sg1.dailymotion.com
+203.210.7.41  proxy-4.sg1.dailymotion.com
+203.210.7.41  proxy-5.sg1.dailymotion.com
+203.210.7.41  proxy-6.sg1.dailymotion.com
+203.210.7.41  proxy-7.sg1.dailymotion.com
+203.210.7.41  proxy-8.sg1.dailymotion.com
+203.210.7.41  proxy-9.sg1.dailymotion.com
+203.210.7.41  proxy-10.sg1.dailymotion.com
+203.210.7.41  proxy-11.sg1.dailymotion.com
+203.210.7.41  proxy-12.sg1.dailymotion.com
+203.210.7.41  proxy-13.sg1.dailymotion.com
+203.210.7.41  proxy-14.sg1.dailymotion.com
+203.210.7.41  proxy-15.sg1.dailymotion.com
+203.210.7.41  proxy-16.sg1.dailymotion.com
 203.210.7.41  proxy-17.sg1.dailymotion.com
-203.210.7.41  proxy-01.dc3.dailymotion.com
+203.210.7.41  proxy-18.sg1.dailymotion.com
+203.210.7.41  proxy-19.sg1.dailymotion.com
+203.210.7.41  proxy-20.sg1.dailymotion.com
+203.210.7.41  proxy-21.sg1.dailymotion.com
+203.210.7.41  proxy-22.sg1.dailymotion.com
+203.210.7.41  proxy-23.sg1.dailymotion.com
+203.210.7.41  proxy-24.sg1.dailymotion.com
+203.210.7.41  proxy-25.sg1.dailymotion.com
+203.210.7.41  proxy-26.sg1.dailymotion.com
+203.210.7.41  proxy-27.sg1.dailymotion.com
+203.210.7.41  proxy-28.sg1.dailymotion.com
+203.210.7.41  proxy-29.sg1.dailymotion.com
+203.210.7.41  proxy-30.sg1.dailymotion.com
+203.210.7.41  proxy-31.sg1.dailymotion.com
+203.210.7.41  proxy-32.sg1.dailymotion.com
+203.210.7.41  proxy-33.sg1.dailymotion.com
+203.210.7.41  proxy-34.sg1.dailymotion.com
+203.210.7.41  proxy-35.sg1.dailymotion.com
+203.210.7.41  proxy-36.sg1.dailymotion.com
+203.210.7.41  proxy-37.sg1.dailymotion.com
+203.210.7.41  proxy-38.sg1.dailymotion.com
+203.210.7.41  proxy-39.sg1.dailymotion.com
+203.210.7.41  proxy-40.sg1.dailymotion.com
+203.210.7.41  proxy-41.sg1.dailymotion.com
+203.210.7.41  proxy-42.sg1.dailymotion.com
+203.210.7.41  proxy-43.sg1.dailymotion.com
+203.210.7.41  proxy-44.sg1.dailymotion.com
+203.210.7.41  proxy-45.sg1.dailymotion.com
+203.210.7.41  proxy-46.sg1.dailymotion.com
+203.210.7.41  proxy-47.sg1.dailymotion.com
+203.210.7.41  proxy-48.sg1.dailymotion.com
+203.210.7.41  proxy-49.sg1.dailymotion.com
+203.210.7.41  proxy-50.sg1.dailymotion.com
+203.210.7.41  proxy-51.sg1.dailymotion.com
+203.210.7.41  proxy-52.sg1.dailymotion.com
+203.210.7.41  proxy-53.sg1.dailymotion.com
+203.210.7.41  proxy-54.sg1.dailymotion.com
+203.210.7.41  proxy-55.sg1.dailymotion.com
+203.210.7.41  proxy-56.sg1.dailymotion.com
+203.210.7.41  proxy-57.sg1.dailymotion.com
+203.210.7.41  proxy-58.sg1.dailymotion.com
+203.210.7.41  proxy-59.sg1.dailymotion.com
+203.210.7.41  proxy-60.sg1.dailymotion.com
+203.210.7.41  proxy-61.sg1.dailymotion.com
+203.210.7.41  proxy-62.sg1.dailymotion.com
+203.210.7.41  proxy-63.sg1.dailymotion.com
+203.210.7.41  proxy-64.sg1.dailymotion.com
+203.210.7.41  proxy-65.sg1.dailymotion.com
+203.210.7.41  proxy-66.sg1.dailymotion.com
+203.210.7.41  proxy-67.sg1.dailymotion.com
+203.210.7.41  proxy-68.sg1.dailymotion.com
+203.210.7.41  proxy-69.sg1.dailymotion.com
+203.210.7.41  proxy-70.sg1.dailymotion.com
+203.210.7.41  proxy-71.sg1.dailymotion.com
+203.210.7.41  proxy-72.sg1.dailymotion.com
+203.210.7.41  proxy-73.sg1.dailymotion.com
+203.210.7.41  proxy-74.sg1.dailymotion.com
+203.210.7.41  proxy-75.sg1.dailymotion.com
+203.210.7.41  proxy-76.sg1.dailymotion.com
+203.210.7.41  proxy-77.sg1.dailymotion.com
+203.210.7.41  proxy-78.sg1.dailymotion.com
+203.210.7.42  proxy-79.sg2.dailymotion.com
+203.210.7.43  proxy-80.sg3.dailymotion.com
+203.210.7.44  proxy-81.sg4.dailymotion.com
+203.210.7.45  proxy-82.sg5.dailymotion.com
+203.210.7.46  proxy-83.sg6.dailymotion.com
+203.210.7.47  proxy-84.sg7.dailymotion.com
+203.210.7.48  proxy-85.sg8.dailymotion.com
+203.210.7.49  proxy-86.sg9.dailymotion.com
+203.210.7.50  proxy-87.sg10.dailymotion.com
+203.210.7.51  proxy-88.sg11.dailymotion.com
+203.210.7.52  proxy-89.sg12.dailymotion.com
+203.210.7.53  proxy-90.sg13.dailymotion.com
+203.210.7.54  proxy-91.sg14.dailymotion.com
+203.210.7.55  proxy-92.sg15.dailymotion.com
+203.210.7.56  proxy-93.sg16.dailymotion.com
+203.210.7.57  proxy-94.sg17.dailymotion.com
+203.210.7.58  proxy-95.sg18.dailymotion.com
+203.210.7.59  proxy-96.sg19.dailymotion.com
+203.210.7.60  proxy-97.sg20.dailymotion.com
+203.210.7.61  proxy-98.sg21.dailymotion.com
+203.210.7.62  proxy-99.sg22.dailymotion.com
+203.210.7.41  logger-03.vty.dailymotion.com
 #dailymotion End
 
 # Ixquick Start
