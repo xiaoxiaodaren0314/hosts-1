@@ -1,9 +1,9 @@
-##################################################
+﻿##################################################
 ## 【htcui Hosts】
-# Last updated: 2017-02-24
+# Last updated: 2017-02-24 15:20
 # https://raw.githubusercontent.com/zhengpu1/hosts/master/hosts
 ##################################################
-# Localhost (DO NOT REMOVE)
+# Localhost 
 127.0.0.1 localhost
 ::1	localhost ip6-localhost ip6-loopback
 
