@@ -3,7 +3,7 @@
 # Web:http://htcui.com
 # iOS/OS X/Windows/linux/
 ##################################################
-# Last updated: 2017-03-02
+# Last updated: 2017-03-05
 ##################################################
 # 【racaljk】
 # https://github.com/racaljk/hosts
@@ -8990,10 +8990,9 @@
 
 # Modified hosts end
 
-
 #AD hosts Start
 
-#version=201703012304
+#version=20170305 855
 #url=https://github.com/vokins/yhosts
 127.0.0.1 localhost
 ::1             ip6-localhost
@@ -9144,6 +9143,8 @@
 127.0.0.1 cdn.holdlakh.com
 127.0.0.1 cdn.wwwpromoter.com
 127.0.0.1 creative.wwwpromoter.com
+127.0.0.1 hd.hd.hhyhfs.com
+127.0.0.1 gi.xi.gxabj.com
 127.0.0.1 aos.prf.hn
 127.0.0.1 c.duomai.com
 127.0.0.1 click.lergao.com
@@ -9658,6 +9659,7 @@
 127.0.0.1 migcreport.g.mi.com
 127.0.0.1 mis.g.mi.com
 127.0.0.1 sg.a.stat.mi.com
+127.0.0.1 shenghuo.xiaomi.com
 127.0.0.1 api.ad.xiaomi.com
 127.0.0.1 cdn.ad.xiaomi.com
 127.0.0.1 e.ad.xiaomi.com
@@ -9692,6 +9694,7 @@
 127.0.0.1 xlmc.sec.miui.com
 127.0.0.1 adinfo.ra1.xlmc.sec.miui.com
 127.0.0.1 staging.admin.e.mi.com
+127.0.0.1 weatherapi.market.xiaomi.com
 127.0.0.1 ads.waps.cn
 127.0.0.1 app.waps.cn
 127.0.0.1 stats.mokeedev.com
@@ -9748,9 +9751,6 @@
 127.0.0.1 www.feixin2.com
 127.0.0.1 dc.ie.027ie.com
 127.0.0.1 ic.ie.027ie.com
-127.0.0.1 bj.bcebos.com
-127.0.0.1 dd713.bj.bcebos.com
-127.0.0.1 vv84.bj.bcebos.com
 127.0.0.1 cdn1.lbesec.com
 127.0.0.1 lottery.kuaiya.cn
 127.0.0.1 api.dewmobile.net
@@ -9892,7 +9892,6 @@
 127.0.0.1 s.fytza.cn
 127.0.0.1 www.cooolyi.com
 127.0.0.1 img.geruishengwu.com
-127.0.0.1 img.95duk.com
 127.0.0.1 img.xrtzf.com
 127.0.0.1 s.meimeidaren.com
 127.0.0.1 m.sdhzstone.net
@@ -10511,6 +10510,19 @@
 127.0.0.1 go.88lmimg.com
 127.0.0.1 img.88lmimg.com
 127.0.0.1 static.88lmimg.com
+127.0.0.1 alm1.tongyuanhejishu.com
+127.0.0.1 js1151.zhudiaosz.com
+127.0.0.1 js3743.dgxinhuan.com
+127.0.0.1 js3743.tongqing2015.com
+127.0.0.1 js4273.zhudiaosz.com
+127.0.0.1 js453.zhudiaosz.com
+127.0.0.1 p.shagent.com
+127.0.0.1 s1.idaguang.com
+127.0.0.1 s1.limeishang.com
+127.0.0.1 s2.limeishang.com
+127.0.0.1 zs0105.zuodianshangmao.com
+127.0.0.1 zs0304.tiansue.com
+127.0.0.1 www.iiad.com
 127.0.0.1 www.soua.com
 127.0.0.1 h5.taihao.cc
 127.0.0.1 j.sc1369.com
@@ -10814,6 +10826,8 @@
 127.0.0.1 samba.adsame.com
 127.0.0.1 analytics.wanmei.com
 127.0.0.1 gg.stargame.com
+127.0.0.1 img1.18183.com
+127.0.0.1 zpe.klre.18183.com
 127.0.0.1 adm.265g.com
 127.0.0.1 dev.tg.youxi.com
 127.0.0.1 gg.5173.com
@@ -11990,14 +12004,6 @@
 127.0.0.1 t.cnsjx.net
 127.0.0.1 m.51geqiang.net
 127.0.0.1 m.snow001.com
-127.0.0.1 alm1.tongyuanhejishu.com
-127.0.0.1 s1.idaguang.com
-127.0.0.1 s1.limeishang.com
-127.0.0.1 zs0105.zuodianshangmao.com
-127.0.0.1 js453.zhudiaosz.com
-127.0.0.1 js1151.zhudiaosz.com
-127.0.0.1 js4273.zhudiaosz.com
-127.0.0.1 www.iiad.com
 127.0.0.1 c.top267.com
 127.0.0.1 static-two.ffwap.com
 127.0.0.1 js.lyrymy.com
@@ -12248,7 +12254,6 @@
 127.0.0.1 statis.push.netease.com
 127.0.0.1 wr.da.netease.com
 127.0.0.1 pr.da.netease.com
-127.0.0.1 c.m.163.com
 127.0.0.1 c-hzgt2.getui.com
 127.0.0.1 ad.yixin.im
 127.0.0.1 a.youdao.com
@@ -12464,6 +12469,7 @@
 127.0.0.1 afp.alicdn.com
 127.0.0.1 afpmm.alicdn.com
 127.0.0.1 alimama.alicdn.com
+127.0.0.1 asearch.alicdn.com
 127.0.0.1 atanx.alicdn.com
 127.0.0.1 atanx2.alicdn.com
 127.0.0.1 gen.alicdn.com
@@ -12667,7 +12673,6 @@
 127.0.0.1 s.wrating.com
 127.0.0.1 sohu.wrating.com
 127.0.0.1 tongji.wrating.com
-127.0.0.1 asearch.alicdn.com
 127.0.0.1 cm.ipinyou.com
 127.0.0.1 i.ipinyou.com
 127.0.0.1 stats.ipinyou.com
@@ -12759,6 +12764,7 @@
 127.0.0.1 snippet.pos.baidu.com
 127.0.0.1 cbjslog.baidu.com
 127.0.0.1 s.cpro.baidu.com
+127.0.0.1 g.baidu.com
 127.0.0.1 als.baidu.com
 127.0.0.1 afd.baidu.com
 127.0.0.1 mbrowser.bdstatic.com
@@ -12805,7 +12811,11 @@
 127.0.0.1 ttpack.qianqian.com
 127.0.0.1 ttplayer.qianqian.com
 127.0.0.1 ad.player.baidu.com
+127.0.0.1 fex.bdstatic.com
 127.0.0.1 static.pay.baidu.com
+127.0.0.1 bj.bcebos.com
+127.0.0.1 dd713.bj.bcebos.com
+127.0.0.1 vv84.bj.bcebos.com
 127.0.0.1 img.taotaosou.cn
 127.0.0.1 img01.taotaosou.cn
 127.0.0.1 release.baidu.com
