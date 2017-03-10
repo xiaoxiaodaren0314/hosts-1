@@ -3,7 +3,7 @@
 # Web:http://htcui.com
 # iOS/OS X/Windows/linux/
 ##################################################
-# Last updated: 2017-03-09
+# Last updated: 2017-03-10
 ##################################################
 # 【racaljk】
 # https://github.com/racaljk/hosts
@@ -9037,8 +9037,8 @@
 #TensorFlow end
 
 # W3schools Start
-93.184.220.20	w3schools.com
-93.184.220.20	www.w3schools.com
+192.229.173.207	w3schools.com
+192.229.173.207	www.w3schools.com
 # W3schools End
 
 # Medium start
@@ -9763,4 +9763,13 @@
 # Xboxlive Start
 134.170.178.89 achievements.xboxlive.com
 # Xboxlive End
+
+# Pinterest Start
+151.101.192.84 www.pinterest.com
+104.156.85.84 pinterest.com
+151.101.76.84 s.pinimg.com
+151.101.76.84 s-media-cache-ak0.pinimg.com
+157.240.7.35 staticxx.facebook.com
+# Pinterest End
+
 # Modified hosts end

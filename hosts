@@ -3,7 +3,7 @@
 # Web:http://htcui.com
 # iOS/OS X/Windows/linux/
 ##################################################
-# Last updated: 2017-03-09
+# Last updated: 2017-03-10
 ##################################################
 # 【racaljk】
 # https://github.com/racaljk/hosts
@@ -9037,8 +9037,8 @@
 #TensorFlow end
 
 # W3schools Start
-93.184.220.20	w3schools.com
-93.184.220.20	www.w3schools.com
+192.229.173.207	w3schools.com
+192.229.173.207	www.w3schools.com
 # W3schools End
 
 # Medium start
@@ -9763,10 +9763,19 @@
 # Xboxlive Start
 134.170.178.89 achievements.xboxlive.com
 # Xboxlive End
+
+# Pinterest Start
+151.101.192.84 www.pinterest.com
+104.156.85.84 pinterest.com
+151.101.76.84 s.pinimg.com
+151.101.76.84 s-media-cache-ak0.pinimg.com
+157.240.7.35 staticxx.facebook.com
+# Pinterest End
+
 # Modified hosts end
 
 #AD hosts Start
-#version=201703081135
+#version=20170310 839
 #url=https://github.com/vokins/yhosts
 127.0.0.1 localhost
 ::1             ip6-localhost
@@ -11294,15 +11303,18 @@
 127.0.0.1 img.88lmimg.com
 127.0.0.1 static.88lmimg.com
 127.0.0.1 alm1.tongyuanhejishu.com
+127.0.0.1 go1.justsoftware.cn
 127.0.0.1 js1151.zhudiaosz.com
 127.0.0.1 js3743.dgxinhuan.com
 127.0.0.1 js3743.tongqing2015.com
 127.0.0.1 js4273.zhudiaosz.com
 127.0.0.1 js453.zhudiaosz.com
 127.0.0.1 p.shagent.com
+127.0.0.1 s1.huiqituan.com
 127.0.0.1 s1.idaguang.com
 127.0.0.1 s1.limeishang.com
 127.0.0.1 s2.limeishang.com
+127.0.0.1 s3.limeishang.com
 127.0.0.1 zs0105.zuodianshangmao.com
 127.0.0.1 zs0304.tiansue.com
 127.0.0.1 www.iiad.com
@@ -14362,23 +14374,5 @@
 127.0.0.1 20170331.biz5.kankan.com
 127.0.0.1 20170331.logic.cpm.cm.kankan.com
 127.0.0.1 20170331.float.kankan.com
+
 #AD hosts End
-#twitter
-0.0.0.0 t.tellapart.com
-0.0.0.0 syndication.twitter.com
-#google
-0.0.0.0 2542116.fls.doubleclick.net
-0.0.0.0 cm.g.doubleclick.net
-0.0.0.0 pubads.g.doubleclick.net
-0.0.0.0 googleads.g.doubleclick.net
-0.0.0.0 securepubads.g.doubleclick.net
-0.0.0.0 static.doubleclick.net
-0.0.0.0 ad-g.doubleclick.net
-0.0.0.0 ad.mo.doubleclick.net
-0.0.0.0 doubleclick.net
-0.0.0.0 pagead.googlesyndication.com
-0.0.0.0 pagead1.googlesyndication.com
-0.0.0.0 pagead2.googlesyndication.com
-0.0.0.0 ads.adadapted.com
-#facebook
-0.0.0.0		staticxx.facebook.com
