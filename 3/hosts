@@ -376,6 +376,7 @@
 38.99.79.105    a.yfrog.com
 38.99.79.105    yfrog.com
 38.99.79.105    www.yfrog.com
+202.171.252.103  syndication.twitter.com
 # Twitter End
 
 # Google Start
@@ -9770,6 +9771,17 @@
 151.101.76.84 s.pinimg.com
 151.101.76.84 s-media-cache-ak0.pinimg.com
 157.240.7.35 staticxx.facebook.com
+151.101.192.84 about.pinterest.com
+151.101.192.84 blog.pinterest.com
+23.219.134.110 assets.pinterest.com
+172.217.24.212 hnbutton.appspot.com
+151.101.192.84 help.pinterest.com
+52.203.245.216 developers.pinterest.com
+151.101.192.84 careers.pinterest.com
+151.101.192.84 business.pinterest.com
+151.101.192.84 widgets.pinterest.com
+151.101.192.84 careers.pinterest.com
+151.101.192.84 log.pinterest.com
 # Pinterest End
 
 # Modified hosts end

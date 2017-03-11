@@ -376,6 +376,7 @@
 38.99.79.105    a.yfrog.com
 38.99.79.105    yfrog.com
 38.99.79.105    www.yfrog.com
+203.210.7.38  syndication.twitter.com
 # Twitter End
 
 # Google Start
@@ -9770,12 +9771,23 @@
 151.101.76.84 s.pinimg.com
 151.101.76.84 s-media-cache-ak0.pinimg.com
 157.240.7.35 staticxx.facebook.com
+151.101.192.84 about.pinterest.com
+151.101.192.84 blog.pinterest.com
+23.219.134.110 assets.pinterest.com
+172.217.24.212 hnbutton.appspot.com
+151.101.192.84 help.pinterest.com
+52.203.245.216 developers.pinterest.com
+151.101.192.84 careers.pinterest.com
+151.101.192.84 business.pinterest.com
+151.101.192.84 widgets.pinterest.com
+151.101.192.84 careers.pinterest.com
+151.101.192.84 log.pinterest.com
 # Pinterest End
 
 # Modified hosts end
 
 #AD hosts Start
-#version=20170310 839
+#version=201703101903
 #url=https://github.com/vokins/yhosts
 127.0.0.1 localhost
 ::1             ip6-localhost
@@ -10100,6 +10112,14 @@
 127.0.0.1 www.searchswapper.com
 127.0.0.1 ssp.thescenseproject.com
 127.0.0.1 m.duobao999.com
+127.0.0.1 a.qiao024.com
+127.0.0.1 ssp.chaohutechan.com
+127.0.0.1 a.dounanhuahui.com
+127.0.0.1 dl.sybspools.com
+127.0.0.1 kr.sybspools.com
+127.0.0.1 p.kjwx8.com
+127.0.0.1 sta.jcjk0451.com
+127.0.0.1 1.yhzm.cc
 127.0.0.1 info.yitsoftware.com
 127.0.0.1 androidads23.adcolony.com
 127.0.0.1 adirects.com
@@ -10436,6 +10456,7 @@
 127.0.0.1 www.gongzhushe.com
 127.0.0.1 www.jbaobao.com
 127.0.0.1 www.maibanu.com
+127.0.0.1 www.duba.com
 127.0.0.1 a.union.mi.com
 127.0.0.1 d.g.mi.com
 127.0.0.1 migc.g.mi.com
@@ -11406,6 +11427,7 @@
 127.0.0.1 cdn1.res.nx5.com
 127.0.0.1 api.anti.wauee.com
 127.0.0.1 code.gutun.net
+127.0.0.1 qu.geryi.com
 127.0.0.1 wan.8mfty.com
 127.0.0.1 rc.mgwcn.com
 127.0.0.1 rc.3ygww.com
@@ -11645,6 +11667,7 @@
 127.0.0.1 bmp.ali213.net
 127.0.0.1 bmp1.ali213.net
 127.0.0.1 web.ali213.net
+127.0.0.1 a.fengyx.com
 127.0.0.1 imp-mdsp.avazutracking.net
 127.0.0.1 click.gamersky.com
 127.0.0.1 ja.gamersky.com
@@ -11899,6 +11922,7 @@
 127.0.0.1 app-g.39.net
 127.0.0.1 d.39.net
 127.0.0.1 dpvc.39.net
+127.0.0.1 thetestpage.39.net
 127.0.0.1 titan.babytree.com
 127.0.0.1 titan01.babytree.com
 127.0.0.1 tc.ci123.com
@@ -14374,5 +14398,4 @@
 127.0.0.1 20170331.biz5.kankan.com
 127.0.0.1 20170331.logic.cpm.cm.kankan.com
 127.0.0.1 20170331.float.kankan.com
-
 #AD hosts End
