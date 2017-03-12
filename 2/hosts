@@ -3,7 +3,7 @@
 # Web:http://htcui.com
 # iOS/OS X/Windows/linux/
 ##################################################
-# Last updated: 2017-03-10
+# Last updated: 2017-03-12
 ##################################################
 # 【racaljk】
 # https://github.com/racaljk/hosts
@@ -1400,6 +1400,7 @@
 219.76.4.4	android.clients.google.com
 219.76.4.4	withgoogle.com
 219.76.4.4	www.withgoogle.com
+219.76.4.4	cloudnext.withgoogle.com
 219.76.4.4	edutrainingcenter.withgoogle.com
 219.76.4.4	earthview.withgoogle.com
 219.76.4.4	lightsaber.withgoogle.com
@@ -9769,6 +9770,10 @@
 151.101.192.84 www.pinterest.com
 104.156.85.84 pinterest.com
 151.101.76.84 s.pinimg.com
+151.101.64.84 i.pinimg.com
+151.101.64.84	trk.pinterest.com
+151.101.64.84	in.pinterest.com
+151.101.64.84	pin.it
 151.101.76.84 s-media-cache-ak0.pinimg.com
 157.240.7.35 staticxx.facebook.com
 151.101.192.84 about.pinterest.com
@@ -9782,6 +9787,30 @@
 151.101.192.84 widgets.pinterest.com
 151.101.192.84 careers.pinterest.com
 151.101.192.84 log.pinterest.com
+151.101.64.84	commerce-prodtest.pinterest.com
+151.101.64.84   api.pinterest.com
+151.101.64.84   commerce.pinterest.com
+151.101.64.84   staging-commerce.pinterest.com
+151.101.64.84   api-ming.pinterdev.com
+151.101.64.84   s-passets.pinimg.com
+151.101.64.84   passets-ec.pinterest.com
+151.101.64.84   passets-ak.pinterest.com
+151.101.64.84   media-cache-ec0.pinimg.com
+151.101.64.84   media-cache-ak0.pinimg.com
+151.101.64.84   passets-cdn.pinterest.com
+151.101.64.84   post.pinterest.com
 # Pinterest End
 
+# Twitch Start
+23.42.166.171 www.twitch.tv
+23.42.166.171 static-cdn.jtvnw.net
+35.163.126.238 spade.twitch.tv
+35.163.153.119 api.twitch.tv
+35.164.141.244 badges.twitch.tv
+54.149.127.255 pubsub-edge.twitch.tv
+54.200.188.229 im.twitch.tv
+192.108.239.254 usher.twitch.tv
+161.202.1.25 api.mixpanel.com
+52.89.192.68 irc-ws.chat.twitch.tv
+# Twitch End
 # Modified hosts end
