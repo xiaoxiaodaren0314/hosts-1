@@ -1,16 +1,10 @@
 ﻿# hosts
-2017年3月18日更新
+2017年3月24日更新
 介绍和说明：
 
  更新日志 ：
 
-更新(标准&增强版) ：优化完善Pinterest hosts地址
-更新(标准&增强版) ：优化完善Google hosts地址
-新增(标准&增强版) ：新增Ingress hosts地址
-新增(标准&增强版) ：新增Twitch hosts地址
-1：此方案的Google Hosts IP地址为：203.210.7.41 适用移动
-2：此方案的Google Hosts IP地址为：219.76.4.4 适用电信
-3：此方案的Google Hosts IP地址为：47.90.50.49 适用联通
+新增youtube hosts地址 播放秒开
 
 htcui hosts 包含内容：
 
