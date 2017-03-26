@@ -3,7 +3,7 @@
 # Web:http://htcui.com
 # iOS/OS X/Windows/linux/
 ##################################################
-# Last updated: 2017-03-24
+# Last updated: 2017-03-26
 ###################################################
 # 【racaljk】
 # https://github.com/racaljk/hosts
@@ -743,6 +743,7 @@
 202.171.252.103 jmoore-dot-android-experiments.appspot.com
 202.171.252.103 lfe-alpo-gm.appspot.com
 202.171.252.103 m-dot-betaspike.appspot.com
+202.171.252.103 mission-author-dot-betaspike.appspot.com
 202.171.252.103 joinjoaomgcd.appspot.com
 202.171.252.103 accounts.google.com.gi
 202.171.252.103 accounts.google.co.nz
@@ -753,7 +754,6 @@
 202.171.252.103 googlesource.com
 202.171.252.103 gerrit.googlesource.com
 202.171.252.103 boringssl.googlesource.com
-202.171.252.103 tensorflow.googlesource.com
 202.171.252.103 gerrit-review.googlesource.com
 202.171.252.103 chromium.googlesource.com
 202.171.252.103 kernel.googlesource.com
@@ -1170,6 +1170,7 @@
 202.171.252.103 encrypted-tbn5.gstatic.com
 202.171.252.103 encrypted-tbn6.gstatic.com
 202.171.252.103 fonts.gstatic.com
+203.210.7.38 play-music.gstatic.com
 202.171.252.103 g0.gstatic.com
 202.171.252.103 g1.gstatic.com
 202.171.252.103 g2.gstatic.com
@@ -2700,6 +2701,7 @@
 202.171.252.103 r13---sn-a5m7lnek.googlevideo.com
 202.171.252.103 r1---sn-a5m7lnes.googlevideo.com
 202.171.252.103 r5---sn-a5mlrn7s.googlevideo.com
+202.171.252.103 r5---sn-i3belnez.googlevideo.com
 202.171.252.103 r1---sn-a5mekn7r.googlevideo.com
 202.171.252.103 r7---sn-a5m7ln7r.googlevideo.com
 202.171.252.103 r5---sn-vgqs7nlr.googlevideo.com
@@ -7827,7 +7829,7 @@
 # Modified hosts end
 
 #AD hosts Start
-#version=201703221648
+#version=201703252110
 #url=https://github.com/vokins/yhosts
 127.0.0.1 localhost
 ::1             ip6-localhost
@@ -7982,6 +7984,7 @@
 127.0.0.1 gi.xi.gxabj.com
 127.0.0.1 cdn1.njjlg.com
 127.0.0.1 url.tudown.com
+127.0.0.1 ccb.uncle-ad.com
 127.0.0.1 aos.prf.hn
 127.0.0.1 c.duomai.com
 127.0.0.1 click.lergao.com
@@ -8167,6 +8170,7 @@
 127.0.0.1 sta.jcjk0451.com
 127.0.0.1 1.yhzm.cc
 127.0.0.1 www.hao934.com
+127.0.0.1 www.1680go.com
 127.0.0.1 info.yitsoftware.com
 127.0.0.1 androidads23.adcolony.com
 127.0.0.1 adirects.com
@@ -8745,6 +8749,7 @@
 127.0.0.1 cdn.moji002.com
 127.0.0.1 cdn2.moji002.com
 127.0.0.1 api721.analysys.cn
+127.0.0.1 irdna.izazamall.com
 127.0.0.1 ad.jxnews.com.cn
 127.0.0.1 ad.beihai365.com
 127.0.0.1 afpimages.eastday.com
@@ -8839,6 +8844,7 @@
 127.0.0.1 oodd.m.1xiaoshuo.com
 127.0.0.1 xdygw.m.1xiaoshuo.com
 127.0.0.1 m.flowcodeapp.com
+127.0.0.1 wan.yigyx.com
 127.0.0.1 hai.yzygo.com
 127.0.0.1 m.desaysmart.com
 127.0.0.1 e.kmwqxqh.com
@@ -8912,6 +8918,8 @@
 127.0.0.1 www.yiranxian.cn
 127.0.0.1 zhong.3gmtr.com
 127.0.0.1 di.zymro.com
+127.0.0.1 m.aishiguolong.com
+127.0.0.1 e.aishiguolong.com
 127.0.0.1 m.breezily168.com
 127.0.0.1 e.breezily168.com
 127.0.0.1 m.guoshennet.com
@@ -9006,6 +9014,7 @@
 127.0.0.1 18.dingdianzw.com
 127.0.0.1 java.aihaoduo.cn
 127.0.0.1 pic.wxxitie.com
+127.0.0.1 api.xiaoliangchx.com
 127.0.0.1 mm.2436.cn
 127.0.0.1 m.cgskqg.com
 127.0.0.1 gmtw.wzflourish.com
@@ -9790,6 +9799,7 @@
 127.0.0.1 1.770765.cn
 127.0.0.1 2.770765.cn
 127.0.0.1 www.a0b11.com
+127.0.0.1 j.12365chia.com
 127.0.0.1 m.baidu.com.yiqisee.cn
 127.0.0.1 www.esptj.com
 127.0.0.1 js3810.yzh360.com
@@ -12408,7 +12418,6 @@
 127.0.0.1 pv.hd.sohu.com
 127.0.0.1 pv.ott.hd.sohu.com
 127.0.0.1 um.hd.sohu.com
-127.0.0.1 usr.mb.hd.sohu.com
 127.0.0.1 wl.hd.sohu.com
 127.0.0.1 api.k.sohu.com
 127.0.0.1 count.vrs.sohu.com
