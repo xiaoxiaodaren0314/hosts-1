@@ -7,10 +7,11 @@
  +### Windows
  +
  +以下 [hosts][github-hosts] 实时更新，适合大部分网络环境。
- -* **网络收集**作者：手机发烧友的 [hosts][github-hosts] 
- -* **网络收集**作者：WUZHIQIANGX的 [hosts]（https://raw.githubusercontent.com/WUZHIQIANGX/hosts/master/hosts） 
- -* **网络收集**作者：s618的 [hosts]（https://github.com/sy618/hosts/blob/master/ADFQ）
- -* **网络收集**作者：racaljk的 [hosts]（https://raw.githubusercontent.com/racaljk/hosts/master/hosts）
+ -* **网络收集**作者： [手机发烧友的--hosts][github-hosts]
+ - [WUZHIQIANGX--hosts](https://raw.githubusercontent.com/WUZHIQIANGX/hosts/master/hosts)
+ - [sy618--hosts](https://github.com/sy618/hosts/blob/master/ADFQ)
+ - [racaljk-hosts](https://raw.githubusercontent.com/racaljk/hosts/master/hosts)
+ - [zhengpu1--hosts](https://raw.githubusercontent.com/zhengpu1/hosts/master/hosts)
  +1. 用文本编辑器（如 [Notepad++](https://notepad-plus-plus.org/)）打开 (如下图)：`%SystemRoot%\System32\drivers\etc\hosts`
   
  -* **Windows**
