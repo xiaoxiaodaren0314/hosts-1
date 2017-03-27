@@ -24,8 +24,7 @@
  +   ### 安卓手机平台
  -   首先确认系统已经root，下载[GO Hosts优雅上网](https://raw.githubusercontent.com/zhengpu1/hosts/master/file/GOHosts%E4%BC%98%E9%9B%85%E4%B8%8A%E7%BD%91.apk) 并上传手机安装，打开gohosts软件，点右上的三角选自定义网址（打开本页面 [zhengpu1--hosts](https://raw.githubusercontent.com/zhengpu1/hosts/master/hosts) 地址栏网址）填入，一键更新即可。
  ![](https://github.com/zhengpu1/hosts/blob/master/file/ho.png)
- +  ### 其他平台
-  
+ +  ## 其他平台 
  + - **注意**： 若更新后，hosts 没有立即生效，请重置网络：
  + - 请将 [hosts][github-hosts] 全部内容复制到`/etc/hosts`中并保存。
  + - 在系统设置内开关网络，或启用禁用飞行模式
