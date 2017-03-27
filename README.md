@@ -18,28 +18,28 @@
  +
  +  > 注：如果遇到无法保存，请右键文件hosts并找到 属性 -> 安全，选择你登录的用户名，<br/>
     > 点击 编辑 ，勾选 写入 即可。 
- +
+ 
  +    ### 其他平台
   
  + - **注意**： 若更新后，hosts 没有立即生效，请重置网络：
  + - 请将 [hosts][github-hosts] 全部内容复制到`/etc/hosts`中并保存。
  + - 在系统设置内开关网络，或启用禁用飞行模式
  +  > 附：[各平台 hosts 位置](https://github.com/racaljk/hosts/wiki/各平台-hosts-文件位置)
- +
+ 
  + **注意**
  +  >  - 手动替换 hosts 时，建议清空 hosts 原有的内容，再进行复制操作
  +  >  - 替换 hosts 文件后，相关记录可能不会立即生效，可以关闭开启网络，或启用禁用飞行模式<br/>
- +  >  - 让域名解析立即生效
+ -- 让域名解析立即生效
   
  + ## 更多
- +
+ 
  + - [关于中国的互联网](https://github.com/racaljk/hosts/wiki/关于中国的互联网)
  + - 获取更多信息，请访问 [Wiki 页面](https://github.com/racaljk/hosts/wiki) 。如有问题，请开 [Issue](https://github.com/racaljk/hosts/issues) 反馈。
  + - 获取更多信息，请访问 [Wiki 页面](https://github.com/racaljk/hosts/wiki) 。如有问题，请开 [Issue](https://github.com/racaljk/hosts/issues) 进行反馈。
   
   
   ## License
- +
+ 
   - 本项目的所有代码除另有说明外,均按照 [MIT License](LICENSE) 发布。
  -- 本项目的hosts，README.MD，wiki等资源基于[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
  -这意味着你可以拷贝、并再发行本项目的内容，但是你将必须同样**提供原作者信息以及协议声明**。同时你也**不能将本项目用于商业用途**，
