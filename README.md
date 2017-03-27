@@ -1,7 +1,7 @@
 
   ##                         2017年最新Google hosts 持续更新
   *屏蔽网站和APP广告、登陆谷歌、GooglePlay、脸书、推特、Github必备
-> [![][goog]](https://chrome.google.com/webstore/category/extensions?utm_source=chrome-ntp-icon)
+> [![][tp1]](https://www.google.com.hk)  
   ## 全球各大受限网站验证区/导航，点击下方图标打开验证
 > [![][tp1]](https://www.google.com.hk)   [![][tp2]](https://www.youtube.com)   [![][tp3]](https://www.wikipedia.org)  
   [![][tp4]](https://www.facebook.com) [![][tp5]](https://github.com)  [![][tp6]](https://www.twitter.com) [![][tp7]](https://www.tumblr.com/) 
