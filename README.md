@@ -2,8 +2,9 @@
   ## 更新 hosts
  + 全球各大受限网站验证区/导航，点击下方图标打开验证
 > [![][tp1]](https://www.google.com.hk)   [![][tp2]](https://www.youtube.com)   [![][tp3]](https://www.wikipedia.org)  
-  [![][tp4]](https://www.facebook.com) [![][tp5]](https://github.com)  [![][tp6]](https://www.twitter.com) [![][tp7]](https://www.tumblr.com/)
-+ htcui hosts 包含内容：[![][tp1]](https://www.google.com.hk)
+  [![][tp4]](https://www.facebook.com) [![][tp5]](https://github.com)  [![][tp6]](https://www.twitter.com) [![][tp7]](https://www.tumblr.com/) 
+  [![][tp8]](https://onedrive.live.com/) [![][tp9]](https://www.panoramio.com/)  [![][tp10]](https://www.flickr.com/) [![][tp11]](https://drive.google.com/) 
++ htcui hosts 包含内容:
 
 + 本地 localhost、Google、Google Play、Twitter、Facebook、Gmail、Youtube、Google Drive、Tumblr、Mega、Dropbox、Apkpure、ccFox.info、ProjectH、Battle.NET 、WordPress、Microsoft Live、Github、Amazon、Archive、Box.com、Disqus、SoundCloud、inoreader、Feedly、FlipBoard、Flickr、imgur、Instagram、DuckDuckGo、Ixquick、Yahoo、Google Services、Google apis、Android、UpLoad、Appspot、Googl eusercontent、Gstatic、Google other、谷歌学术、维基百科、xda-developers等网站hosts.
  -  网络收集实时更新，根据自己本地网络选择以下hosts文件：
@@ -64,4 +65,8 @@
   [tp5]: http://htcui.com/wp-content/uploads/github1.png
   [tp6]: http://htcui.com/wp-content/uploads/0d647a5e99924d009a5a89fad8742d92.png
   [tp7]: http://htcui.com/wp-content/uploads/tumblr.png
+  [tp8]: http://htcui.com/wp-content/uploads/7dbbe9538255860e51b1d7f43c665abe.png
+  [tp9]: http://htcui.com/wp-content/uploads/78b20954404ebe2b7a435e4996d5e0c2.png
+  [tp10]: http://htcui.com/wp-content/uploads/4968bef021342e4000b7232f04f5a14a.png
+  [tp11]: http://htcui.com/wp-content/uploads/9ae18efdbaca1c0de7fd9dbd63635449.png
  +[CC-NC-SA-4.0]http://htcui.com/wp-content/uploads/github1.png: https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh
