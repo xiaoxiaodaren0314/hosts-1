@@ -9,7 +9,7 @@
 + htcui hosts 包含内容:
 
 + 本地 localhost、Google、Google Play、Twitter、Facebook、Gmail、Youtube、Google Drive、Tumblr、Mega、Dropbox、Apkpure、ccFox.info、ProjectH、Battle.NET 、WordPress、Microsoft Live、Github、Amazon、Archive、Box.com、Disqus、SoundCloud、inoreader、Feedly、FlipBoard、Flickr、imgur、Instagram、DuckDuckGo、Ixquick、Yahoo、Google Services、Google apis、Android、UpLoad、Appspot、Googl eusercontent、Gstatic、Google other、谷歌学术、维基百科、xda-developers等网站hosts.
- -  2017年3月27日更新
+ -  **2017年3月27日更新**
  -  根据自己本地网络ping以下三个ip选择延时最小的hosts文件：
  - [hosts-1](https://raw.githubusercontent.com/zhengpu1/hosts/master/1/hosts) ip 203.210.7.38
  - [hosts-2](https://raw.githubusercontent.com/zhengpu1/hosts/master/2/hosts) ip 219.76.4.4
@@ -26,7 +26,7 @@
  -  > 注意：如果遇到无法替换，请右键文件hosts并找到“属性” -> “安全”，然后选择你登陆的用户名，最后点击编辑，勾选“写入”即可。
 
  +   ### 安卓平台
- -   首先确认系统已经root，下载[GO Hosts优雅上网](https://raw.githubusercontent.com/zhengpu1/hosts/master/file/GOHosts%E4%BC%98%E9%9B%85%E4%B8%8A%E7%BD%91.apk) 并上传设备安装，打开gohosts软件，点右上的三角选自定义网址（打开本页面 [hosts-1](https://raw.githubusercontent.com/zhengpu1/hosts/master/1/hosts) 地址栏网址）填入，一键更新即可。
+ -  首先确认系统已经root，下载[GO Hosts优雅上网](https://raw.githubusercontent.com/zhengpu1/hosts/master/file/GOHosts%E4%BC%98%E9%9B%85%E4%B8%8A%E7%BD%91.apk) 并上传设备安装，打开gohosts软件，点右上的三角选**网络**自定义网址（打开本页面 [hosts-1](https://raw.githubusercontent.com/zhengpu1/hosts/master/1/hosts) 地址栏网址）填入，一键更新即可。
  ![](https://github.com/zhengpu1/hosts/blob/master/file/ho.png)
  +  ## 其他平台 
  + - **注意**： 若更新后，hosts 没有立即生效，请重置网络：
