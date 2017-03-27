@@ -11,7 +11,7 @@
 + 本地 localhost、Google、Google Play、Twitter、Facebook、Gmail、Youtube、Google Drive、Tumblr、Mega、Dropbox、Apkpure、ccFox.info、ProjectH、Battle.NET 、WordPress、Microsoft Live、Github、Amazon、Archive、Box.com、Disqus、SoundCloud、inoreader、Feedly、FlipBoard、Flickr、imgur、Instagram、DuckDuckGo、Ixquick、Yahoo、Google Services、Google apis、Android、UpLoad、Appspot、Googl eusercontent、Gstatic、Google other、谷歌学术、维基百科、xda-developers等网站hosts.
  -  网络收集实时更新，根据自己本地网络选择以下hosts文件：
  - [WUZHIQIANGX--hosts](https://raw.githubusercontent.com/WUZHIQIANGX/hosts/master/hosts)
- - [sy618--hosts](https://github.com/sy618/hosts/blob/master/ADFQ)
+ - [sy618--hosts](https://raw.githubusercontent.com/sy618/hosts/master/ADFQ)
  - [racaljk-hosts](https://raw.githubusercontent.com/racaljk/hosts/master/hosts)
  - [zhengpu1--hosts](https://raw.githubusercontent.com/zhengpu1/hosts/master/hosts)
  
