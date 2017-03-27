@@ -1,7 +1,7 @@
 
   ##                         2017年最新Google hosts 持续更新
   *屏蔽网站和APP广告、登陆谷歌、GooglePlay、脸书、推特、Github必备
-> [![][goog]](https://www.google.com.hk)  
+  [![][tp12]](https://www.google.com.hk)  
   ## 全球各大受限网站验证区/导航，点击下方图标打开验证
 > [![][tp1]](https://www.google.com.hk)   [![][tp2]](https://www.youtube.com)   [![][tp3]](https://www.wikipedia.org)  
   [![][tp4]](https://www.facebook.com) [![][tp5]](https://github.com)  [![][tp6]](https://www.twitter.com) [![][tp7]](https://www.tumblr.com/) 
@@ -69,5 +69,5 @@
   [tp9]: http://htcui.com/wp-content/uploads/78b20954404ebe2b7a435e4996d5e0c2.png
   [tp10]: http://htcui.com/wp-content/uploads/4968bef021342e4000b7232f04f5a14a.png
   [tp11]: http://htcui.com/wp-content/uploads/9ae18efdbaca1c0de7fd9dbd63635449.png
-  [goog]: http://idannywu.com/wp-content/uploads/2016/11/google_2015_logo_detail.png
+  [tp12]: http://idannywu.com/wp-content/uploads/2016/11/google_2015_logo_detail.png
   [CC-NC-SA-4.0]: https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh
