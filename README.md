@@ -15,13 +15,16 @@
  - [racaljk-hosts](https://raw.githubusercontent.com/racaljk/hosts/master/hosts)
  - [zhengpu1--hosts](https://raw.githubusercontent.com/zhengpu1/hosts/master/hosts)
   
- +  **Windows**
- -   1. 用文本编辑器（如 [Notepad++](https://notepad-plus-plus.org/)）打开：`
- -  %SystemRoot%\System32\drivers\etc\hosts`
-    > ![](https://i.imgur.com/BwW2cft.jpg)
+ +  **Windows平台**
+-    1. 下载[windows wget](http://www.interlog.com/~tcharron/wgetwin-1_5_3_1-binary.zip) 解压到C盘根目录。
+-    2. 新建一个文本文档复制下面代码保存为bat格式，不同的hosts替换下面网址，然后执行即可，如果杀毒软件拦截选择全部允许：`
+     @ECHO OFF
+     cd %windir%\system32\drivers\etc
+     del hosts
+     C:\wget --no-check-certificate https://raw.githubusercontent.com/zhengpu1/hosts/master/hosts -O hosts
+     ipconfig /flushdns
   
- -  2. 将 [hosts][github-hosts] 全部内容复制到上面的文件内并保存。
- -  > 注意：如果遇到无法保存，请右键文件hosts并找到“属性” -> “安全”，然后选择你登陆的用户名，最后点击编辑，勾选“写入”即可。
+ -  > 注意：如果遇到无法替换，请右键文件hosts并找到“属性” -> “安全”，然后选择你登陆的用户名，最后点击编辑，勾选“写入”即可。
 
  +    ### 其他平台
   
