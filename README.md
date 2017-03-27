@@ -3,7 +3,7 @@
   屏蔽网站和APP广告、登陆谷歌、GooglePlay、脸书、推特、Github必备
   [![][tp12]](https://chrome.google.com/webstore/category/extensions?utm_source=chrome-ntp-icon)
   ## 全球各大受限网站验证区/导航，点击下方图标打开验证
-> [![][tp1]](https://www.google.com.hk)   [![][tp2]](https://www.youtube.com)   [![][tp3]](https://www.wikipedia.org)  
+> [![][tp1]](https://www.google.com.hk)   [![][tp2]](https://www.youtube.com)   [![][tp3]](https://www.wikipedia.org) [![][tp13]](https://play.google.com/store/apps) 
   [![][tp4]](https://www.facebook.com) [![][tp5]](https://github.com)  [![][tp6]](https://www.twitter.com) [![][tp7]](https://www.tumblr.com/) 
   [![][tp8]](https://onedrive.live.com/) [![][tp9]](https://www.panoramio.com/)  [![][tp10]](https://www.flickr.com/) [![][tp11]](https://drive.google.com/) 
 + htcui hosts 包含内容:
@@ -66,6 +66,7 @@
   [tp5]: http://htcui.com/wp-content/uploads/github1.png
   [tp6]: http://htcui.com/wp-content/uploads/0d647a5e99924d009a5a89fad8742d92.png
   [tp7]: http://htcui.com/wp-content/uploads/tumblr.png
+  [tp13]: https://github.com/zhengpu1/hosts/blob/master/file/play.png
   [tp12]: http://idannywu.com/wp-content/uploads/2016/11/google_2015_logo_detail.png
   [tp8]: http://htcui.com/wp-content/uploads/7dbbe9538255860e51b1d7f43c665abe.png
   [tp9]: http://htcui.com/wp-content/uploads/78b20954404ebe2b7a435e4996d5e0c2.png
