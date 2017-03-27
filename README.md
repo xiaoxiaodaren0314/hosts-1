@@ -17,8 +17,8 @@
   
  +    ### Windows平台
  -   1. 下载[windows wget](http://www.interlog.com/~tcharron/wgetwin-1_5_3_1-binary.zip) 解压到C盘根目录。
- -   2. 下载批处理[一键更新hosts](https://raw.githubusercontent.com/zhengpu1/hosts/master/file/hosts及时更新.bat)
- -   3. 不同的hosts替换里面网址，然后执行即可，如果杀毒软件拦截选择全部允许： 
+ -   2. 下载批处理 [一键更新hosts](https://raw.githubusercontent.com/zhengpu1/hosts/master/file/hosts及时更新.bat)
+ -   3. 执行 一键更新hosts 即可，如果杀毒软件拦截选择全部允许： 
  -  > 注意：如果遇到无法替换，请右键文件hosts并找到“属性” -> “安全”，然后选择你登陆的用户名，最后点击编辑，勾选“写入”即可。
 
  +    ### 其他平台
