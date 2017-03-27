@@ -33,7 +33,7 @@
  +  >  - 替换 hosts 文件后，相关记录可能不会立即生效，可以关闭开启网络，或启用禁用飞行模式<br/>
  +  >    让域名解析立即生效
   
-  ## 更多
+ + ## 更多
  +
  + - [关于中国的互联网](https://github.com/racaljk/hosts/wiki/关于中国的互联网)
  + - 获取更多信息，请访问 [Wiki 页面](https://github.com/racaljk/hosts/wiki) 。如有问题，请开 [Issue](https://github.com/racaljk/hosts/issues) 反馈。
