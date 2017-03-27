@@ -1,7 +1,7 @@
 ﻿﻿# hosts
   ## 更新 hosts
  + 全球各大受限网站验证区/导航，点击下方图标打开验证
->        [![][tp1]](https://www.google.com.hk)   [![][tp2]](https://www.youtube.com)   [![][tp3]](https://www.wikipedia.org)  
+> [![][tp1]](https://www.google.com.hk)   [![][tp2]](https://www.youtube.com)   [![][tp3]](https://www.wikipedia.org)  
   [![][tp4]](https://www.facebook.com) [![][tp5]](https://github.com)  [![][tp6]](https://www.twitter.com) [![][tp7]](https://www.tumblr.com/)
 + htcui hosts 包含内容：[![][tp1]](https://www.google.com.hk)
 
