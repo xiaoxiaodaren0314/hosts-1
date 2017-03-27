@@ -65,9 +65,9 @@
   [tp5]: http://htcui.com/wp-content/uploads/github1.png
   [tp6]: http://htcui.com/wp-content/uploads/0d647a5e99924d009a5a89fad8742d92.png
   [tp7]: http://htcui.com/wp-content/uploads/tumblr.png
+  [tp12]: http://idannywu.com/wp-content/uploads/2016/11/google_2015_logo_detail.png
   [tp8]: http://htcui.com/wp-content/uploads/7dbbe9538255860e51b1d7f43c665abe.png
   [tp9]: http://htcui.com/wp-content/uploads/78b20954404ebe2b7a435e4996d5e0c2.png
   [tp10]: http://htcui.com/wp-content/uploads/4968bef021342e4000b7232f04f5a14a.png
   [tp11]: http://htcui.com/wp-content/uploads/9ae18efdbaca1c0de7fd9dbd63635449.png
-  [tp12]: http://idannywu.com/wp-content/uploads/2016/11/google_2015_logo_detail.png
   [CC-NC-SA-4.0]: https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh
