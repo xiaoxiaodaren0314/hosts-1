@@ -17,13 +17,8 @@
   
  +    ### Windows平台
  -   1. 下载[windows wget](http://www.interlog.com/~tcharron/wgetwin-1_5_3_1-binary.zip) 解压到C盘根目录。
- -   2. 新建一个文本文档复制下面代码保存为bat格式，不同的hosts替换下面网址，然后执行即可，如果杀毒软件拦截选择全部允许：`
- + > @ECHO OFF<br/>
-     cd %windir%\system32\drivers\etc<br/>
-     del hosts<br/>
-     C:\localdns\wget --no-check-certificate https://raw.githubusercontent.com/zhengpu1/hosts/master/hosts -O hosts<br/>
-     ipconfig /flushdns<br/>
-  
+ -   2. 下载批处理[一键更新hosts](`https://raw.githubusercontent.com/zhengpu1/hosts/master/file/hosts%E5%8F%8A%E6%97%B6%E6%9B%B4%E6%96%B0.bat)
+ -   3. 不同的hosts替换里面网址，然后执行即可，如果杀毒软件拦截选择全部允许： 
  -  > 注意：如果遇到无法替换，请右键文件hosts并找到“属性” -> “安全”，然后选择你登陆的用户名，最后点击编辑，勾选“写入”即可。
 
  +    ### 其他平台
