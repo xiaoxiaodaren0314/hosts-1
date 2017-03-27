@@ -9,7 +9,7 @@
 + htcui hosts 包含内容:
 
 + 本地 localhost、Google、Google Play、Twitter、Facebook、Gmail、Youtube、Google Drive、Tumblr、Mega、Dropbox、Apkpure、ccFox.info、ProjectH、Battle.NET 、WordPress、Microsoft Live、Github、Amazon、Archive、Box.com、Disqus、SoundCloud、inoreader、Feedly、FlipBoard、Flickr、imgur、Instagram、DuckDuckGo、Ixquick、Yahoo、Google Services、Google apis、Android、UpLoad、Appspot、Googl eusercontent、Gstatic、Google other、谷歌学术、维基百科、xda-developers等网站hosts.
- -  网络收集实时更新，根据自己本地网络选择以下hosts文件：
+ -  网络收集实时更新，根据自己本地网络ping以下三个ip选择延时最小的hosts文件：
  - [hosts-1 ip 203.210.7.38](https://raw.githubusercontent.com/zhengpu1/hosts/master/1/hosts)
  - [hosts-2 ip 219.76.4.4](https://raw.githubusercontent.com/zhengpu1/hosts/master/2/hosts)
  - [hosts-3 ip 202.171.252.103](https://raw.githubusercontent.com/zhengpu1/hosts/master/3/hosts)
