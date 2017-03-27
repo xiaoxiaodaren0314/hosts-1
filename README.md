@@ -15,7 +15,7 @@
  - [racaljk-hosts](https://raw.githubusercontent.com/racaljk/hosts/master/hosts)
  - [zhengpu1--hosts](https://raw.githubusercontent.com/zhengpu1/hosts/master/hosts)
   
-    ## Windows平台
+ +    ### Windows平台
  -   1. 下载[windows wget](http://www.interlog.com/~tcharron/wgetwin-1_5_3_1-binary.zip) 解压到C盘根目录。
  -   2. 新建一个文本文档复制下面代码保存为bat格式，不同的hosts替换下面网址，然后执行即可，如果杀毒软件拦截选择全部允许：`
      * @ECHO OFF
