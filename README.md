@@ -60,7 +60,7 @@
   
   [github-hosts]: https://raw.githubusercontent.com/zhengpu1/hosts/master/hosts "hosts on Github"
   [tp1]: http://htcui.com/wp-content/uploads/cbf87778dc36ff1e8a6ce93d896550231.png
-  [tp2]: http://htcui.com/wp-content/uploads/83dad2aff9f342675ffb319250dc8ac41.png
+  [tp2]: https://github.com/zhengpu1/hosts/blob/master/file/yt.png
   [tp3]: http://htcui.com/wp-content/uploads/fb2135f9db6782534705d34ab902c3d2.png
   [tp4]: http://htcui.com/wp-content/uploads/121ae84b8edaea52a3b0d20989ab91f6.png
   [tp5]: http://htcui.com/wp-content/uploads/github1.png
