@@ -10,10 +10,11 @@
 
 + 本地 localhost、Google、Google Play、Twitter、Facebook、Gmail、Youtube、Google Drive、Tumblr、Mega、Dropbox、Apkpure、ccFox.info、ProjectH、Battle.NET 、WordPress、Microsoft Live、Github、Amazon、Archive、Box.com、Disqus、SoundCloud、inoreader、Feedly、FlipBoard、Flickr、imgur、Instagram、DuckDuckGo、Ixquick、Yahoo、Google Services、Google apis、Android、UpLoad、Appspot、Googl eusercontent、Gstatic、Google other、谷歌学术、维基百科、xda-developers等网站hosts.
  -  网络收集实时更新，根据自己本地网络选择以下hosts文件：
- - [WUZHIQIANGX--hosts](https://raw.githubusercontent.com/WUZHIQIANGX/hosts/master/hosts)
- - [sy618--hosts](https://raw.githubusercontent.com/sy618/hosts/master/ADFQ)
- - [racaljk-hosts](https://raw.githubusercontent.com/racaljk/hosts/master/hosts)
- - [zhengpu1--hosts](https://raw.githubusercontent.com/zhengpu1/hosts/master/hosts)
+ - [hosts-1 ip 203.210.7.38](https://raw.githubusercontent.com/zhengpu1/hosts/master/1/hosts)
+ - [hosts-2 ip 219.76.4.4](https://raw.githubusercontent.com/zhengpu1/hosts/master/2/hosts)
+ - [hosts-3 ip 202.171.252.103](https://raw.githubusercontent.com/zhengpu1/hosts/master/3/hosts)
+ - [安卓用去广告--hosts](https://raw.githubusercontent.com/vokins/yhosts/master/hosts)
+ - [电脑用去广告--hosts](https://raw.githubusercontent.com/vokins/yhosts/master/hosts.txt)
   
  +    ### Windows平台
  -   1. 下载[windows wget](http://www.interlog.com/~tcharron/wgetwin-1_5_3_1-binary.zip) 解压到C盘根目录。
