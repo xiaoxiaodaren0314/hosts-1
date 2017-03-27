@@ -5,6 +5,7 @@
  - [sy618--hosts](https://github.com/sy618/hosts/blob/master/ADFQ)
  - [racaljk-hosts](https://raw.githubusercontent.com/racaljk/hosts/master/hosts)
  - [zhengpu1--hosts](https://raw.githubusercontent.com/zhengpu1/hosts/master/hosts)
+ 
  +1. 用文本编辑器（如 [Notepad++](https://notepad-plus-plus.org/)）打开 (如下图)：`%SystemRoot%\System32\drivers\etc\hosts`
   
  -* **Windows**
