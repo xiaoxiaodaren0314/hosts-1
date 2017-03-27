@@ -14,8 +14,6 @@
  - [sy618--hosts](https://raw.githubusercontent.com/sy618/hosts/master/ADFQ)
  - [racaljk-hosts](https://raw.githubusercontent.com/racaljk/hosts/master/hosts)
  - [zhengpu1--hosts](https://raw.githubusercontent.com/zhengpu1/hosts/master/hosts)
- 
- + 1. 用文本编辑器（如 [Notepad++](https://notepad-plus-plus.org/)）打开 (如下图)：`%SystemRoot%\System32\drivers\etc\hosts`
   
  +  **Windows**
  -   1. 用文本编辑器（如 [Notepad++](https://notepad-plus-plus.org/)）打开：`
@@ -24,9 +22,7 @@
   
  -  2. 将 [hosts][github-hosts] 全部内容复制到上面的文件内并保存。
  -  > 注意：如果遇到无法保存，请右键文件hosts并找到“属性” -> “安全”，然后选择你登陆的用户名，最后点击编辑，勾选“写入”即可。
- +  > 注：如果遇到无法保存，请右键文件hosts并找到 属性 -> 安全，选择你登录的用户名，<br/>
-    > 点击 编辑 ，勾选 写入 即可。 
- 
+
  +    ### 其他平台
   
  + - **注意**： 若更新后，hosts 没有立即生效，请重置网络：
