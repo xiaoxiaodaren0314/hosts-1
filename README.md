@@ -1,8 +1,7 @@
 ﻿﻿# hosts
   ## 更新 hosts
  + 全球各大受限网站验证区/导航，点击下方图标打开验证
-> ![[](http://htcui.com/wp-content/uploads/cbf87778dc36ff1e8a6ce93d896550231.png)](https://www.google.com.hk)
-- [[](http://htcui.com/wp-content/uploads/cbf87778dc36ff1e8a6ce93d896550231.png)](https://www.google.com.hk)
+>  ![][tp1](https://www.google.com.hk)
 + htcui hosts 包含内容：
 
 + 本地 localhost、Google、Google Play、Twitter、Facebook、Gmail、Youtube、Google Drive、Tumblr、Mega、Dropbox、Apkpure、ccFox.info、ProjectH、Battle.NET 、WordPress、Microsoft Live、Github、Amazon、Archive、Box.com、Disqus、SoundCloud、inoreader、Feedly、FlipBoard、Flickr、imgur、Instagram、DuckDuckGo、Ixquick、Yahoo、Google Services、Google apis、Android、UpLoad、Appspot、Googl eusercontent、Gstatic、Google other、谷歌学术、维基百科、xda-developers等网站hosts.
@@ -57,4 +56,5 @@
   ![img-source-from-https://github.com/docker/dockercraft](https://github.com/docker/dockercraft/raw/master/docs/img/contribute.png?raw=true)
   
   [github-hosts]: https://raw.githubusercontent.com/zhengpu1/hosts/master/hosts "hosts on Github"
+  [tp1]: http://htcui.com/wp-content/uploads/cbf87778dc36ff1e8a6ce93d896550231.png
  +[CC-NC-SA-4.0]: https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh
