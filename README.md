@@ -1,5 +1,5 @@
 
-  ## 2017年最新Google hosts 持续更新
+  ##                         2017年最新Google hosts 持续更新
   *屏蔽网站和APP广告、登陆谷歌、GooglePlay、脸书、推特、Github必备
   ![](http://idannywu.com/wp-content/uploads/2016/11/google_2015_logo_detail.png)
   ## 全球各大受限网站验证区/导航，点击下方图标打开验证
