@@ -1,16 +1,10 @@
 @ECHO OFF
-d:
-cd hosts
-
+cd %windir%\system32\drivers\etc
 del hosts
-C:\localdns\wget --no-check-certificate https://raw.githubusercontent.com/WUZHIQIANGX/hosts/master/noad/hosts -O hosts2.txt
+C:\localdns\wget --no-check-certificate https://raw.githubusercontent.com/WUZHIQIANGX/hosts/master/hosts -O hosts2.txt
 C:\localdns\wget --no-check-certificate https://raw.githubusercontent.com/vokins/yhosts/master/hosts -O hosts1.txt
 copy hosts2.txt + hosts1.txt hosts
-cd noem
-C:\localdns\wget --no-check-certificate https://raw.githubusercontent.com/WUZHIQIANGX/hosts/master/noad/hosts -O hosts
-start D:\hosts
-
-echo 请按任意键进行测试，如取消，请直接关闭本窗口
+ipconfig /flushdns
+echo 璇锋寜浠绘剰閿繘琛屾祴璇曪紝濡傚彇娑堬紝璇风洿鎺ュ叧闂湰绐楀彛
 echo.
 pause >nul
-
