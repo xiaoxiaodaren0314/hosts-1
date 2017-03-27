@@ -15,12 +15,11 @@
   
  -   2. 将 [hosts][github-hosts] 全部内容复制到上面的文件内并保存。
  -   > 注意：如果遇到无法保存，请右键文件hosts并找到“属性” -> “安全”，然后选择你登陆的用户名，最后点击编辑，勾选“写入”即可。
- + 2. 将 [hosts][github-hosts] 全部内容复制到上面的文件内并保存。
  +
  +  > 注：如果遇到无法保存，请右键文件hosts并找到 属性 -> 安全，选择你登录的用户名，<br/>
  +  > 点击 编辑 ，勾选 写入 即可。
   
- -* **其他平台**请将 [hosts][github-hosts] 全部内容复制到`/etc/hosts`中并保存。
+ + -* **其他平台**请将 [hosts][github-hosts] 全部内容复制到`/etc/hosts`中并保存。
  -> 附：[各平台 hosts 位置](https://github.com/racaljk/hosts/wiki/各平台-hosts-文件位置)
  +### 其他平台
   
