@@ -8,7 +8,7 @@
  
  + 1. 用文本编辑器（如 [Notepad++](https://notepad-plus-plus.org/)）打开 (如下图)：`%SystemRoot%\System32\drivers\etc\hosts`
   
- -* **Windows**
+ +  **Windows**
  -   1. 用文本编辑器（如 [Notepad++](https://notepad-plus-plus.org/)）打开：`
  -  %SystemRoot%\System32\drivers\etc\hosts`
     > ![](https://i.imgur.com/BwW2cft.jpg)
