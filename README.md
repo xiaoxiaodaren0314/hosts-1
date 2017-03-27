@@ -71,4 +71,4 @@
   [tp9]: http://htcui.com/wp-content/uploads/78b20954404ebe2b7a435e4996d5e0c2.png
   [tp10]: http://htcui.com/wp-content/uploads/4968bef021342e4000b7232f04f5a14a.png
   [tp11]: http://htcui.com/wp-content/uploads/9ae18efdbaca1c0de7fd9dbd63635449.png
- +[CC-NC-SA-4.0]http://htcui.com/wp-content/uploads/github1.png: https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh
+  [CC-NC-SA-4.0]: https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh
