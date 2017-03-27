@@ -26,7 +26,7 @@
  -  > 注意：如果遇到无法替换，请右键文件hosts并找到“属性” -> “安全”，然后选择你登陆的用户名，最后点击编辑，勾选“写入”即可。
 
  +   ### 安卓平台
- -   首先确认系统已经root，下载[GO Hosts优雅上网](https://raw.githubusercontent.com/zhengpu1/hosts/master/file/GOHosts%E4%BC%98%E9%9B%85%E4%B8%8A%E7%BD%91.apk) 并上传设备安装，打开gohosts软件，点右上的三角选自定义网址（打开本页面 [zhengpu1--hosts](https://raw.githubusercontent.com/zhengpu1/hosts/master/hosts) 地址栏网址）填入，一键更新即可。
+ -   首先确认系统已经root，下载[GO Hosts优雅上网](https://raw.githubusercontent.com/zhengpu1/hosts/master/file/GOHosts%E4%BC%98%E9%9B%85%E4%B8%8A%E7%BD%91.apk) 并上传设备安装，打开gohosts软件，点右上的三角选自定义网址（打开本页面 [hosts-1](https://raw.githubusercontent.com/zhengpu1/hosts/master/1/hosts) 地址栏网址）填入，一键更新即可。
  ![](https://github.com/zhengpu1/hosts/blob/master/file/ho.png)
  +  ## 其他平台 
  + - **注意**： 若更新后，hosts 没有立即生效，请重置网络：
