@@ -1,13 +1,6 @@
 ﻿﻿# hosts
-#myhosts
   ## 更新 hosts
- -#### 推荐使用项目内的 [应用/工具](tools) 来自动备份/更新 hosts 文件
- +#### 推荐使用项目内提供的 [应用/工具](tools) 来自动获取最新 hosts 文件，以下简单介绍手动替换 hosts 的步骤
- +
- +### Windows
- +
- +以下 [hosts][github-hosts] 实时更新，适合大部分网络环境。
- -* **网络收集**作者： [手机发烧友的--hosts][github-hosts]
+-  网络收集实时更新，根据自己本地网络选择以下hosts文件：
  - [WUZHIQIANGX--hosts](https://raw.githubusercontent.com/WUZHIQIANGX/hosts/master/hosts)
  - [sy618--hosts](https://github.com/sy618/hosts/blob/master/ADFQ)
  - [racaljk-hosts](https://raw.githubusercontent.com/racaljk/hosts/master/hosts)
