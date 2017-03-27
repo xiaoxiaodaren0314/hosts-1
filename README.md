@@ -1,7 +1,7 @@
 ﻿﻿# hosts
   ## 更新 hosts
  + 全球各大受限网站验证区/导航，点击下方图标打开验证
->  ![][tp1](https://www.google.com.hk)
+>  [![][tp1]](https://www.google.com.hk)
 + htcui hosts 包含内容：
 
 + 本地 localhost、Google、Google Play、Twitter、Facebook、Gmail、Youtube、Google Drive、Tumblr、Mega、Dropbox、Apkpure、ccFox.info、ProjectH、Battle.NET 、WordPress、Microsoft Live、Github、Amazon、Archive、Box.com、Disqus、SoundCloud、inoreader、Feedly、FlipBoard、Flickr、imgur、Instagram、DuckDuckGo、Ixquick、Yahoo、Google Services、Google apis、Android、UpLoad、Appspot、Googl eusercontent、Gstatic、Google other、谷歌学术、维基百科、xda-developers等网站hosts.
