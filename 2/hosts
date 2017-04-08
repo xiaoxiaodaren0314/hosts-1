@@ -1,5 +1,5 @@
 
-# Last updated: 2017-04-05
+# Last updated: 2017-04-08
 # 【zhengpu1】
 # https://github.com/zhengpu1/hosts
 127.0.0.1 localhost
@@ -745,6 +745,7 @@
 219.76.4.4 accounts.google.com.gi
 219.76.4.4 accounts.google.co.nz
 219.76.4.4 id.google.co.nz
+219.76.4.4 googlecode.com
 219.76.4.4 www.googlecode.com
 219.76.4.4 smarthosts.googlecode.com
 219.76.4.4 fuchsia.googlesource.com
@@ -759,6 +760,7 @@
 219.76.4.4 gwt.googlesource.com
 219.76.4.4 code.google.com
 219.76.4.4 uploads.code.google.com
+219.76.4.4 android.googlecode.com
 219.76.4.4 chromium.googlecode.com
 219.76.4.4 closure-library.googlecode.com
 219.76.4.4 earth-api-samples.googlecode.com

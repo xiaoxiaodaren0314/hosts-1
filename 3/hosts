@@ -1,5 +1,5 @@
 
-# Last updated: 2017-04-05
+# Last updated: 2017-04-08
 # 【zhengpu1】
 # https://github.com/zhengpu1/hosts
 127.0.0.1 localhost
@@ -745,6 +745,7 @@
 202.171.252.103 accounts.google.com.gi
 202.171.252.103 accounts.google.co.nz
 202.171.252.103 id.google.co.nz
+202.171.252.103 googlecode.com
 202.171.252.103 www.googlecode.com
 202.171.252.103 smarthosts.googlecode.com
 202.171.252.103 fuchsia.googlesource.com
@@ -759,6 +760,7 @@
 202.171.252.103 gwt.googlesource.com
 202.171.252.103 code.google.com
 202.171.252.103 uploads.code.google.com
+202.171.252.103 android.googlecode.com
 202.171.252.103 chromium.googlecode.com
 202.171.252.103 closure-library.googlecode.com
 202.171.252.103 earth-api-samples.googlecode.com
