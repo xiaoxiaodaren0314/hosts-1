@@ -10,8 +10,7 @@
 
 + 本地 localhost、Google、Google Play、Twitter、Facebook、Gmail、Youtube、Google Drive、Tumblr、Mega、Dropbox、Apkpure、ccFox.info、ProjectH、Battle.NET 、WordPress、Microsoft Live、Github、Amazon、Archive、Box.com、Disqus、SoundCloud、inoreader、Feedly、FlipBoard、Flickr、imgur、Instagram、DuckDuckGo、Ixquick、Yahoo、Google Services、Google apis、Android、UpLoad、Appspot、Googl eusercontent、Gstatic、Google other、谷歌学术、维基百科、xda-developers等网站hosts.
  -  **2017年4月14日更新**<br/>
-    1.更新**Twitter**地址<br/> 
-    2.更新**Facebook**地址
+    更新**Twitter**地址
  -  根据自己本地网络ping以下三个ip选择延时最小的hosts文件：
  - [hosts-1](https://raw.githubusercontent.com/zhengpu1/hosts/master/1/hosts) ip 203.210.7.38
  - [hosts-2](https://raw.githubusercontent.com/zhengpu1/hosts/master/2/hosts) ip 219.76.4.4
