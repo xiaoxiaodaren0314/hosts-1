@@ -19,7 +19,7 @@
  - 电脑用去广告[hosts](https://raw.githubusercontent.com/vokins/yhosts/master/hosts.txt)
   
  +    ### Windows平台
- -   1. 下载[windows wget](http://www.interlog.com/~tcharron/wgetwin-1_5_3_1-binary.zip) 解压到C盘根目录。
+ -   1. 下载[windows wget](http://www.interlog.com/~tcharron/wgetwin-1_5_3_1-binary.zip) 解压到到C盘根目录。
  -   2. 下载批处理 [一键更新hosts](https://raw.githubusercontent.com/zhengpu1/hosts/master/file/hosts及时更新.bat)
  -   3. 执行 一键更新hosts 即可，如果杀毒软件拦截选择全部允许：
     ![](https://github.com/zhengpu1/hosts/blob/master/file/pl.png)
